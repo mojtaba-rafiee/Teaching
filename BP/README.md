@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h1> Basic Programming - Fall 2021 </h1>
+<center><h1> Basic Programming - Fall 2021 </h1></center>
 
 # Course Description
 
