@@ -3,6 +3,8 @@
 <br>
 <br>
 
+<h1> Basic Programming - Fall 2021 </h1>
+
 # Course Description
 
 This course introduces the fundamentals of computer programming using the Java programming language. We cover all basic syntax of Java with object-oriented programming principles. 
