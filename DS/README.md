@@ -2,7 +2,7 @@
 <center> University of Isfahan <br> Department of Applied Mathematics and Computer Science </center>
 <br>
 
-<center><hr>Data Structures and Algorithms</hr></center>
+<center><h1>Data Structures and Algorithms</h1></center>
 
 <br>
 
