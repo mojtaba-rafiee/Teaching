@@ -1,4 +1,4 @@
-<center><img src=".\image\UILOGO.png" alt="" border='3' height='100' width='115' /></center>
+<center><img src="..\image\UILOGO.png" alt="" border='3' height='100' width='115' /></center>
 <center> University of Isfahan <br> Department of Applied Mathematics and Computer Science </center>
 <br>
 <br>
