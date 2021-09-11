@@ -40,6 +40,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 # References
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms (CLRS)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬</a>
 
 <!--
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
