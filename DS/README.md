@@ -30,6 +30,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 <br>
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
