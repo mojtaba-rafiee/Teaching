@@ -26,7 +26,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     Course description
     ```
-    * [Course Description](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
+    * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDesciption/DS.pdf)
 
 
 <br>
