@@ -13,25 +13,21 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Class Time and Location
 
-* Saturday  05:30 - 06:30 PM,
-* Sunday    02:00 - 03:00 PM,
-* Wednesday 05:30 - 06:30 PM.
+* Main Classes    : Saturday  05:30 - 06:30 PM, Wednesday 05:30 - 06:30 PM.
+* Practice Class  : Sunday    02:00 - 03:00 PM.
+
 
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/mojtaba.rafiee).
 
 
 # Lectures
 * ## Lecture 1: ##
-    Day Date
+    Saturday 1400-07-27
     ```markdown
     Course description
-    Introduction to Hardware
     ```
-    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
-    * [Course Description Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
-    * [Hardware Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_01.pdf)
-    * References:
-      * [programmedlessons](http://www.programmedlessons.org/)
+    * [Course Description](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
+
 
 <br>
 
