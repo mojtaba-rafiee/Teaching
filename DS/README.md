@@ -12,7 +12,11 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Class Time and Location
-* Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
+
+* Saturday  05:30 - 06:30 PM,
+* Sunday    02:00 - 03:00 PM,
+* Wednesday 05:30 - 06:30 PM.
+
 <br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/mojtaba.rafiee).
 
 
