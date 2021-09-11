@@ -26,7 +26,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     Course description
     ```
-    * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDesciption/DS.pdf)
+    * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
     
 
 <br>
