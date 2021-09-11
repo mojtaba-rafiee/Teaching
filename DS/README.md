@@ -8,7 +8,7 @@
 
 # Course Description
 
-This course introduces the fundamentals of computer programming using the Java programming language. We cover all basic syntax of Java with object-oriented programming principles. 
+This course covers analysis and design of fundamental data structures and engages students to use data structures as tools to algorithmically design efficient computer programs.
 
 
 # Class Time and Location
