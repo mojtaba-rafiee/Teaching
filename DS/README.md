@@ -48,7 +48,7 @@ This course covers analysis and design of fundamental data structures and engage
 -->
 
 # Lecture Template
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Latex Template</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template</a>
 
 # Contact
 
