@@ -17,7 +17,7 @@ This course covers analysis and design of fundamental data structures and engage
 * Practice Class  : Sunday    02:00 - 03:00 PM.
 
 
-<br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/mojtaba.rafiee).
+<br>The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
 
 
 # Lectures
@@ -47,6 +47,8 @@ This course covers analysis and design of fundamental data structures and engage
 * <a href="https://www.amazon.com/Java-Program-Early-Objects-Deitel/dp/0134743350">Java How to Program, Early Objects</a>
 -->
 
+# Lecture Template
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Latex Template</a>
 
 # Contact
 
