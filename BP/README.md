@@ -28,11 +28,11 @@ The main purpose of this course is to learn how to solve computational problems 
     Course description
     ```
 <!-- 
-  * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
+    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
     * [Course Description Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
     * [Hardware Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_01.pdf)
     * References:
-      * [programmedlessons](http://www.programmedlessons.org/) 
+    * [programmedlessons](http://www.programmedlessons.org/) 
 -->
 
 <br>
