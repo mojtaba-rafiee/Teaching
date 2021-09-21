@@ -36,9 +36,9 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     The types of computational problems:
         * Unsolvable problems,
-        * Solvable Prblems: :white_check_mark
+        * Solvable Prblems: ✅
             * In theory (intractable),
-            * In practice (tractable). :white_check_mark
+            * In practice (tractable). ✅
     ```
   <!--  * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf) -->
 
