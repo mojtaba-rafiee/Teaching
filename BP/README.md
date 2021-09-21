@@ -33,7 +33,7 @@ The main purpose of this course is to learn how to solve computational problems 
 
 # Contact
 
-If you have any questions about the course, please send an email to <i>bp.fall2020@gmail.com</i> .
+If you have any questions about the course, please send an email to <i>ui.cs.fall2021.bp.rafiee@gmail.com</i>.
 
 
 
