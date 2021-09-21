@@ -29,6 +29,18 @@ This course covers analysis and design of fundamental data structures and engage
     * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
     
 
+* ## Lecture 2: ##
+    Sunday 1400-06-28
+    ```markdown
+    The types of computational problems:
+        * Unsolvable problems,
+        * Solvable Prblems:
+            * In theory (intractable),
+            * In practice (tractable).
+    ```
+  <!--  * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf) -->
+
+
 <br>
 
 <!--
