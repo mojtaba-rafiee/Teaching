@@ -8,12 +8,17 @@
 
 # Course Description
 
-This course introduces the fundamentals of computer programming using the Java programming language. We cover all basic syntax of Java with object-oriented programming principles. 
+The main purpose of this course is to learn how to solve computational problems using a computer. At the end, it is expected that students become familiar with the following concepts and skills:
+* Understanding the computer as a computing machine,
+* Learning the algorithmic thinking to solve the problem,
+* Algorithm description skills with Java programming language.
 
 
 # Class Time and Location
-* Sunday and Tuesday 10:30-12:30 AM, Wednesday 1:00-3:00 PM.
-<br>The class is held virtually in [**VClass**](https://vc.sharif.edu/ch/mojtaba.rafiee).
+* Main Classes   : Tuesday 10:00 - 11:00 AM, Wednesday 07:30 - 08:30 AM.
+* Practice Class : Saturday 03:00 - 04:0 PM.
+
+<br>The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/69314).
 
 
 # Lectures
@@ -21,16 +26,15 @@ This course introduces the fundamentals of computer programming using the Java p
     Day Date
     ```markdown
     Course description
-    Introduction to Hardware
     ```
-    * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
+ <!--   * [Class Video](http://cw.sharif.edu/pluginfile.php/209850/mod_folder/content/0/Lecture_01.mkv?forcedownload=1) 
     * [Course Description Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/intro.pdf)
     * [Hardware Slide](https://github.com/mojtabaOstovari/BasicProgramming-fall2020/blob/gh-pages/Slides/lecture_01.pdf)
     * References:
-      * [programmedlessons](http://www.programmedlessons.org/)
+      * [programmedlessons](http://www.programmedlessons.org/) -->
 
 <br>
-
+<!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
@@ -45,7 +49,7 @@ If you have any questions about the course, please send an email to <i>bp.fall20
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
 * <a href="https://www.amazon.com/Java-Program-Early-Objects-Deitel/dp/0134743350">Java How to Program, Early Objects</a>
 
-
+-->
 
 
 
