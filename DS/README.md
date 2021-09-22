@@ -26,7 +26,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     Course description
     ```
-    * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
+    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/40c76c5e3080aa87ac26bb8f9adacaa725387316-1631969899777)
     
 
 <br>
@@ -40,7 +41,20 @@ This course covers analysis and design of fundamental data structures and engage
             * In theory (intractable),
             * In practice (tractable). ✅
     ```
-  <!--  * [Course Description](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf) -->
+   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/957a754c265f6e82fe6922014de92c6805161f74-1632043771002)
+
+
+<br>
+
+* ## Lecture 3: ##
+    Wednesday 1400-06-31
+    ```markdown
+    The examples of computational problems:
+        * Unsolvable problem: Halting problem.
+        * Solvable Prblems: 
+            * In theory (intractable): SAT problem, Hamiltonian path/cycle problem.
+            * In practice (tractable): Sorting problem, Searching problem
+    ```
 
 
 <br>
