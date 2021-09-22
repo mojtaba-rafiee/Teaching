@@ -64,6 +64,8 @@ This course covers analysis and design of fundamental data structures and engage
 # Lecture Template
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template</a>
 * <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1</a>
+
 
 
 # Contact
