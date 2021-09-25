@@ -60,6 +60,24 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 4: ##
+    Saturday 1400-07-03
+    ```markdown
+    Algorithms and problem solving approaches:
+        * Definitions and properties
+        * Review and evaluation of an algorithm: 
+            * Specification an algorithm,
+            * Verification an algorithm,
+            * Performance analysis (Time/Space complexity) an algorithm:
+                * Asymptotic comparision,
+                * Concrete comparision.
+    ```
+   <!-- * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/805d94d5b20c7753ecb1fad9674cc40eb16f5cc4-1632319149029)-->
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session4.PDF)
+
+
+<br>
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
