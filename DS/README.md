@@ -72,7 +72,7 @@ This course covers analysis and design of fundamental data structures and engage
                 * Asymptotic comparision,
                 * Concrete comparision.
     ```
-   <!-- * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/805d94d5b20c7753ecb1fad9674cc40eb16f5cc4-1632319149029)-->
+   * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/06be93ad21401e13d06b2591cd9535b5729d724e-1632578359581)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session4.PDF)
 
 
