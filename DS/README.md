@@ -55,6 +55,7 @@ This course covers analysis and design of fundamental data structures and engage
             * In theory (intractable): SAT problem, Hamiltonian path/cycle problem.
             * In practice (tractable): Sorting problem, Searching problem
     ```
+   * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/805d94d5b20c7753ecb1fad9674cc40eb16f5cc4-1632319149029)
 
 
 <br>
@@ -67,8 +68,8 @@ This course covers analysis and design of fundamental data structures and engage
 -->
 
 # References
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms (CLRS)</a>
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms [CLRS] (PDF)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
 
 <!--
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
@@ -76,9 +77,9 @@ This course covers analysis and design of fundamental data structures and engage
 -->
 
 # Lecture Template
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template</a>
-* <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List</a>
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template (ZIP)</a>
+* <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List (Google Sheet)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1 (PDF)</a>
 
 
 
