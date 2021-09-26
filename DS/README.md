@@ -67,9 +67,9 @@ This course covers analysis and design of fundamental data structures and engage
         * Definitions and properties
         * Review and evaluation of an algorithm: 
             * Specification an algorithm,
-            * Verification an algorithm,
-            * Performance analysis (Time/Space complexity) an algorithm:
-                * Asymptotic comparision,
+            * Verification an algorithm, ✅
+            * Performance analysis (Time/Space complexity) an algorithm: ✅
+                * Asymptotic comparision, ✅
                 * Concrete comparision.
     ```
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/06be93ad21401e13d06b2591cd9535b5729d724e-1632578359581)
@@ -81,7 +81,7 @@ This course covers analysis and design of fundamental data structures and engage
     Sunday 1400-07-04
     ```markdown
     The types of algorithms in terms of problem solving approaches:
-        * Deterministic algorithms,
+        * Deterministic algorithms, ✅
         * Non-deterministic algorithms,
         * Approximation algorithms.
     ```
