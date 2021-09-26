@@ -75,6 +75,18 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/06be93ad21401e13d06b2591cd9535b5729d724e-1632578359581)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session4.PDF)
 
+<br>
+
+* ## Lecture 5: ##
+    Sunday 1400-07-04
+    ```markdown
+    The types of algorithms in terms of problem solving approaches:
+        * Deterministic algorithms,
+        * Non-deterministic algorithms,
+        * Approximation algorithms.
+    ```
+   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/fb3a7344c77d2f7536cd66422a540dcc5546274a-1632652060798)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session5.PDF)
 
 <br>
 
