@@ -26,10 +26,10 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     Course description
     ```
-    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
     * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/40c76c5e3080aa87ac26bb8f9adacaa725387316-1631969899777)
-    
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
 
+   
 <br>
 
 * ## Lecture 2: ##
@@ -42,6 +42,8 @@ This course covers analysis and design of fundamental data structures and engage
             * In practice (tractable). ✅
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/957a754c265f6e82fe6922014de92c6805161f74-1632043771002)
+   * [Report - Prepared by Nooshafarin Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.pdf)
+   * [Report - Prepared by Nooshafarin Ahmadi (ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.zip)
 
 
 <br>
