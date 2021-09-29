@@ -94,6 +94,20 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 6: ##
+    Sunday 1400-07-07
+    ```markdown
+    The types of algorithms in terms of problem solving approaches and examples:
+        * Approximation algorithms: Process Allocation Problem.
+        * Prbabilistic algorithms: Quicksort, Randomized Quicksort.
+    ```
+   * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/98a7436ecc80f8831539abb786ad912070f022e1-1632923953465)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session6.PDF)
+
+<br>
+
+
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
