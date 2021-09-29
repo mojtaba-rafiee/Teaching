@@ -43,7 +43,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/957a754c265f6e82fe6922014de92c6805161f74-1632043771002)
    * [Report - Prepared by Nooshafarin Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.pdf)
-   * [Report - Prepared by Nooshafarin Ahmadi (ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.zip)
+   * [Report - Prepared by Nooshafarin Ahmadi (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.zip)
 
 
 <br>
