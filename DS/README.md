@@ -78,6 +78,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/06be93ad21401e13d06b2591cd9535b5729d724e-1632578359581)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session4.PDF)
+   * [Report - Preparing by Hossein john Ahmadi (PDF)]
+   * [Report - Preparing by Hossein john Ahmadi (Latex Source - ZIP)]
 
 <br>
 
@@ -91,6 +93,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/fb3a7344c77d2f7536cd66422a540dcc5546274a-1632652060798)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session5.PDF)
+   * [Report - Preparing by Ida Omoumi (PDF)]
+   * [Report - Preparing by Ida Omoumi (Latex Source - ZIP)]
 
 <br>
 
@@ -103,6 +107,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/98a7436ecc80f8831539abb786ad912070f022e1-1632923953465)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session6.PDF)
+   * [Report - Preparing by Seyede tuba Hosseini (PDF)]
+   * [Report - Preparing by Seyede tuba Hosseini (Latex Source - ZIP)]
 
 <br>
 
