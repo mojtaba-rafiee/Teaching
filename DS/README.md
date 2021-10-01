@@ -59,8 +59,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/805d94d5b20c7753ecb1fad9674cc40eb16f5cc4-1632319149029)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session3.PDF)
-   * [Report - Preparing by Saeed Shariati (PDF)]
-   * [Report - Prepared by Saeed Shariati (Latex Source - ZIP)]
+   * [Report - Preparing by Saeed Shariati (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_3.pdf)
+   * [Report - Prepared by Saeed Shariati (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_3.zip)
 
 <br>
 
