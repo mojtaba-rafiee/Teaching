@@ -99,7 +99,7 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 * ## Lecture 6: ##
-    Sunday 1400-07-07
+    Wednesday 1400-07-07
     ```markdown
     The types of algorithms in terms of problem solving approaches and examples:
         * Approximation algorithms: Process Allocation Problem.
@@ -109,6 +109,19 @@ This course covers analysis and design of fundamental data structures and engage
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session6.PDF)
    * [Report - Preparing by Seyede tuba Hosseini (PDF)]
    * [Report - Preparing by Seyede tuba Hosseini (Latex Source - ZIP)]
+
+<br>
+
+* ## Lecture 7: ##
+    Saturday 1400-07-10
+    ```markdown
+    Insertion-Sort algorithm - Correctness and Performance Analysis
+        * In-place and Out-of-place algorithms,
+        * Invariant property and correctness of algorithms.
+    ```
+   * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/e9dc9534eeb05705a415828598e11c74c952880e-1633183149328)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session7.PDF)
+
 
 <br>
 
