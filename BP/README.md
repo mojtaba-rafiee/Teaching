@@ -27,8 +27,9 @@ The main purpose of this course is to learn how to solve computational problems 
     ```markdown
     Course description
     ```
-    * [Class Video]
+    * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/fbc0609b39c8e279ad0e75084f9b1e5fd2078630-1633174095239)
     * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/CourseDesciption/BP.pdf)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session1.PDF)
 
 <br>
 
