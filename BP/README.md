@@ -23,7 +23,7 @@ The main purpose of this course is to learn how to solve computational problems 
 
 # Lectures
 * ## Lecture 1: ##
-    Day Date
+    Saturday 1400-07-10
     ```markdown
     Course description
     ```
