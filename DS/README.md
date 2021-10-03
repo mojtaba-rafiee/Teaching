@@ -125,7 +125,18 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 8: ##
+    Sunday 1400-07-11
+    ```markdown
+    Insertion-Sort algorithm - Correctness and Performance Analysis
+        * Invariant property and correctness,
+        * Performance analysis: Best case and Worst case.
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/c5be71e7e05ab79c9b5bf804d1f90a48560ad48b-1633256910084)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session8.PDF)
 
+
+<br>
 
 <!--
 # App and Tools
