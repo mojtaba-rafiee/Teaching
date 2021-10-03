@@ -146,6 +146,12 @@ This course covers analysis and design of fundamental data structures and engage
 * <a href="http://cw.sharif.edu/pluginfile.php/212768/mod_folder/content/0/%D9%86%D8%B5%D8%A8_%D9%88_%D8%B1%D8%A7%D9%87_%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7_%D9%88_%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC_%D9%88_%D8%A7%D9%BE%D9%84%D9%88%D8%AF_%D9%81%D8%A7%DB%8C%D9%84_%D8%B1%D9%88%DB%8C_%DA%A9%D9%88%D8%A6%D8%B1%D8%A7.mp4?forcedownload=1">Installation guide video</a>
 -->
 
+
+
+# Problem Solving Warm Up
+* [Warm Up - 1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
+
+
 # References
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms [CLRS] (PDF)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
