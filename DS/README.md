@@ -139,6 +139,22 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+* ## Lecture 9: ##
+    Wednesday 1400-07-14
+    ```markdown
+    Insertion-Sort algorithm - Performance Analysis
+        * Performance analysis: Average case,
+        * Examine the binary search in sub-array ordered and and its impact on the time complexity,
+        * The relationship between time complexity, input size and processing power.
+    ```
+   * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/bef3d9bb9aecb0ee3ba3a5f671c4738ba4aa908f-1633528669667)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session9.PDF)
+   * [Examples for Loop-Invariant (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Examples_LoopInvariant.PDF)
+
+
+<br>
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
