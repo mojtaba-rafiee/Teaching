@@ -41,6 +41,12 @@ The main purpose of this course is to learn how to solve computational problems 
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms [CLRS]        (PDF)</a>
 
 
+# Lecture Template
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template (ZIP)</a>
+* <a href="https://docs.google.com/spreadsheets/d/1c14ZCmJ63SxDBR6NB-P0TcEqSe9xkJINH9PSc7Lhwak/edit?usp=sharing">Reporting List (Google Sheet)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1 (PDF)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining-P2.pdf">Latex Training - Part 2 (PDF)</a>
+
 
 # Contact
 
