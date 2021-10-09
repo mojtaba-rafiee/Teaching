@@ -121,6 +121,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/e9dc9534eeb05705a415828598e11c74c952880e-1633183149328)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session7.PDF)
+   * [Report - Preparing by Parvin Kazemi (PDF)]
+   * [Report - Preparing by Parvin Kazemi (Latex Source - ZIP)]
 
 
 <br>
@@ -135,6 +137,8 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/c5be71e7e05ab79c9b5bf804d1f90a48560ad48b-1633256910084)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session8.PDF)
    * [Pseudocode conventions [Requested in class] (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Pseudocode_Conventions.pdf)
+   * [Report - Preparing by Mansoureh Haghanimanesh (PDF)]
+   * [Report - Preparing by Mansoureh Haghanimanesh (Latex Source - ZIP)]
 
 
 <br>
@@ -151,6 +155,8 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/bef3d9bb9aecb0ee3ba3a5f671c4738ba4aa908f-1633528669667)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session9.PDF)
    * [Examples for Loop-Invariant (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Examples_LoopInvariant.PDF)
+   * [Report - Preparing by Zahrasadar Mirtalebi (PDF)]
+   * [Report - Preparing by Zahrasadar Mirtalebi (Latex Source - ZIP)]
 
 
 <br>
