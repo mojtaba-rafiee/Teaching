@@ -49,6 +49,26 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+* ## Lecture 3: ##
+    Saturday 1400-07-17
+    ```markdown
+    Computer Systems - Hardware
+        * The overall structure of the computer hardware:
+                 * Secondary memory,
+                 * Arithmatic and logic unit (ALU),
+                 * Control unit (CU),
+                 * Central processing unit (CPU = ALU + CU).
+        * Communication between the main components of computer hardware:
+                 * Instruction flow,
+                 * Data flow,
+                 * Control signal flow.
+    ```
+    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/ddbadcc0ada3b5f6099401fd256187bea79c22dd-1633778920565)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session3.PDF)
+
+<br>
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
