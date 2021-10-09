@@ -155,9 +155,24 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/bef3d9bb9aecb0ee3ba3a5f671c4738ba4aa908f-1633528669667)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session9.PDF)
    * [Examples for Loop-Invariant (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Examples_LoopInvariant.PDF)
-   * [Report - Preparing by Zahrasadar Mirtalebi (PDF)]
-   * [Report - Preparing by Zahrasadar Mirtalebi (Latex Source - ZIP)]
+   * [Report - Preparing by Zahrasadat Mirtalebi (PDF)]
+   * [Report - Preparing by Zahrasadat Mirtalebi (Latex Source - ZIP)]
 
+
+<br>
+
+
+* ## Lecture 10: ##
+    Saturday 1400-07-17
+    ```markdown
+    Growth of functions - Asymptotic analysis:
+        * The advantages of asymptotic analysis compared to concrete analysis,
+        * Asymptotic upper bound (O-notation) and examples,
+        * Asymptotic lower bound (Ω-notation) and examples.
+    ```
+   * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/ebdb13a8e9f575129d2fdbc166a77133e9b8d780-1633787827581)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session10.PDF)
+   
 
 <br>
 
