@@ -69,6 +69,45 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 4: ##
+    Sunday 1400-07-20
+    ```markdown
+    Computer Systems - Software
+        * System softwares and examples,
+        * Programming softwares and examples,
+        * Application softwares and examples,
+        * Types of software license:
+            * Registerware,
+            * Shareware,
+            * Freeware,
+            * Open source,
+            * Demoware,
+            * Abandonware.
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/45463b0b5cb7c33a344973220ad87002a2c6763e-1634019983942)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session4.PDF)
+
+<br>
+
+* ## Lecture 5: ##
+    Wednesday 1400-07-21
+    ```markdown
+    Computer Systems - Software 
+        * The process of running a program on a computer system,
+        * Type of languages:
+            * Conversational,
+            * Formal:
+                * Low level,
+                * Mid level,
+                * Hight level,
+            * Standard protocols.
+
+    ```
+    * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/a64017c8dafe7c589466780492d280d2ba28b87c-1634097505869)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session5.PDF)
+
+<br>
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
