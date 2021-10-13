@@ -196,6 +196,22 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 12: ##
+    Wednesday 1400-07-21
+    ```markdown
+    Review the concepts taught:
+        * Notes:
+            * Classification os functions,
+            * Relation between asymptotic notations and best/worst/average case,
+            * The necessity/non-necessity of the existence of an asymptotic relationship between each pair of functions.          
+        * Sample questions.
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/1e5b1174ffa62eef149c1bd7b4007a56b0ace643-1634133468029)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session12.PDF)
+   
+
+<br>
+
 
 <!--
 # App and Tools
