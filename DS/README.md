@@ -120,8 +120,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/e9dc9534eeb05705a415828598e11c74c952880e-1633183149328)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session7.PDF)
-   * [Report - Preparing by Parvin Kazemi (PDF)]
-   * [Report - Preparing by Parvin Kazemi (Latex Source - ZIP)]
+   * [Report - Preparing by Parvin Kazemi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_7.pdf)
 
 
 <br>
