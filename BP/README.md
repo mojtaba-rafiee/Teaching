@@ -46,6 +46,8 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/8287c69729de2e704437216609a0fa09d4ca7473-1633492697580)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session2.PDF)
+    * [Report - Prepared by Mahdi Sadeghi-Hassanvand (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_2.pdf)
+    * [Report - Prepared by Mahdi Sadeghi-Hassanvand (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_2.zip)
 
 <br>
 
