@@ -78,7 +78,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/06be93ad21401e13d06b2591cd9535b5729d724e-1632578359581)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session4.PDF)
-   * [Report - Preparing by Hossein john Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_4.pdf)
+   * [Report - Prepared by Hossein john Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_4.pdf)
 
 
 <br>
@@ -107,7 +107,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/98a7436ecc80f8831539abb786ad912070f022e1-1632923953465)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session6.PDF)
-   * [Report - Preparing by Seyede tuba Hosseini (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_6.pdf)
+   * [Report - Prepared by Seyede tuba Hosseini (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_6.pdf)
 
 <br>
 
@@ -120,7 +120,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/e9dc9534eeb05705a415828598e11c74c952880e-1633183149328)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session7.PDF)
-   * [Report - Preparing by Parvin Kazemi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_7.pdf)
+   * [Report - Prepared by Parvin Kazemi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_7.pdf)
 
 
 <br>
@@ -153,7 +153,7 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/bef3d9bb9aecb0ee3ba3a5f671c4738ba4aa908f-1633528669667)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session9.PDF)
    * [Examples for Loop-Invariant (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Examples_LoopInvariant.PDF)
-   * [Report - Preparing by Zahrasadat Mirtalebi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_9.pdf)
+   * [Report - Prepared by Zahrasadat Mirtalebi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_9.pdf)
 
 
 <br>
