@@ -128,8 +128,6 @@ The main purpose of this course is to learn how to solve computational problems 
             * Assembler,
             * Compiler,
             * Interpreter.
-
-
     ```
     * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/b9f95f8fb0f4db09bb800b66097529909779d752-1634383704858)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session6.PDF)
