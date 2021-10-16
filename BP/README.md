@@ -119,7 +119,7 @@ The main purpose of this course is to learn how to solve computational problems 
 * ## Lecture 6: ##
     Saturday 1400-07-24
     ```markdown
-    Computer Systems - Software 
+    Computer Systems - Software - Programming softwares
         * Programming Languages:
             * Machine languages and properties,
             * Assembly languages and properties,
