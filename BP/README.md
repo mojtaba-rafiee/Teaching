@@ -116,6 +116,29 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 6: ##
+    Saturday 1400-07-24
+    ```markdown
+    Computer Systems - Software 
+        * Programming Languages:
+            * Machine languages and properties,
+            * Assembly languages and properties,
+            * High level languages and properties.
+        * Translator languages:
+            * Assembler,
+            * Compiler,
+            * Interpreter.
+
+
+    ```
+    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/b9f95f8fb0f4db09bb800b66097529909779d752-1634383704858)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session6.PDF)
+
+
+<br>
+
+
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
