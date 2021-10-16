@@ -124,7 +124,7 @@ The main purpose of this course is to learn how to solve computational problems 
             * Machine languages and properties,
             * Assembly languages and properties,
             * High level languages and properties.
-        * Translator languages:
+        * Translator softwares:
             * Assembler,
             * Compiler,
             * Interpreter.
