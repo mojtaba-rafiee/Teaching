@@ -200,7 +200,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
     Review the concepts taught:
         * Notes:
-            * Classification os functions,
+            * Classification of functions,
             * Relation between asymptotic notations and best/worst/average case,
             * The necessity/non-necessity of the existence of an asymptotic relationship between each pair of functions.          
         * Sample questions.
