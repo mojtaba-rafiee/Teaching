@@ -224,6 +224,25 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+* ## Lecture 14: ##
+    Saturday 1400-07-25
+    ```markdown
+     Bubble-Sort algorithm - Performance Analysis
+     Divide and conquer algorithms:
+        * Steps of a divide and conquer algorithm:
+            * Divide,
+            * Conquer,
+            * Combine.
+        * Example: recursive version of Insertion-Sort.
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/142cb68a9d2f99952ec207c33bbc01eb3a9ba0c2-1634466401999)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session14.PDF)
+      
+
+<br>
+
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
