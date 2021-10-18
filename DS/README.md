@@ -226,7 +226,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 * ## Lecture 14: ##
-    Saturday 1400-07-25
+    Sunday 1400-07-25
     ```markdown
      Bubble-Sort algorithm - Performance Analysis
      Divide and conquer algorithms:
