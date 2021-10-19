@@ -74,7 +74,7 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 * ## Lecture 4: ##
-    Sunday 1400-07-20
+    Tuesday 1400-07-20
     ```markdown
     Computer Systems - Software
         * System softwares and examples,
@@ -135,6 +135,24 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 7: ##
+    Tuesday 1400-07-27
+    ```markdown
+    Computer Systems - Software - Programming softwares
+        * The difference between compiler and interpreter,
+        * Error types in a program:
+            * Syntax error,
+            * Runtime error,
+            * Semantic error.
+         * Error, bug and debug concepts,
+         * Debugging process,
+         * Linker component.
+    ```
+    * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/c73d742282aeb810359809dda7b5ebbdb52777fe-1634624884774)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session7.PDF)
+
+
+<br>
 
 
  # References
