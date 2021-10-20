@@ -245,6 +245,23 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 15: ##
+    Sunday 1400-07-28
+    ```markdown
+     Illustration of recursive function calls (data and program stack),
+     Recursive version of insertion sort algorithm:
+        * Correctness proof,
+        * Performance analysis.
+     Recursive version of merge sort algorithm:
+        * Informal description with example.
+    ```
+   * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/e53f2a040bdc213c05850c56f2cd3355b6689652-1634738347208)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session15.PDF)
+      
+
+<br>
+
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
