@@ -154,6 +154,25 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 8: ##
+    Wednesday 1400-07-28
+    ```markdown
+    Computer Systems - Software - Programming softwares
+        * Loader component.
+    Binary codes:
+        * Binary devices and examples,
+        * Properties of the binary codes,
+        * Representing of the variant data types by binary codes:
+            * Image,
+            * Audio,
+            * Video.
+    ```
+    * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/f4c193d4ce6fec71eb04af7e9fed6c462f595d68-1634702234782)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session8.PDF)
+
+
+<br>
+
 
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
