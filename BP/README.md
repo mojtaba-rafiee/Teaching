@@ -89,7 +89,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/45463b0b5cb7c33a344973220ad87002a2c6763e-1634019983942)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session4.PDF)
-    * [<span style="color:red">Report - Preparing by Narges Hashemifaraz (PDF)</span>]
+    * [Report - Preparing by Narges Hashemifaraz (PDF)]
 
 
 
