@@ -68,8 +68,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/ddbadcc0ada3b5f6099401fd256187bea79c22dd-1633778920565)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session3.PDF)
-    * [Report - Preparing by Ali Olanejadbandari (PDF)]
-    * [Report - Preparing by Ali Olanejadbandari (Latex Source - ZIP)]
+    * [Report - Prepared by Ali Olanejadbandari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_3.pdf)
 
 <br>
 
@@ -91,7 +90,6 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/45463b0b5cb7c33a344973220ad87002a2c6763e-1634019983942)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session4.PDF)
     * [Report - Preparing by Narges Hashemifaraz (PDF)]
-    * [Report - Preparing by Narges Hashemifaraz (Latex Source - ZIP)]
 
 <br>
 
@@ -111,8 +109,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/a64017c8dafe7c589466780492d280d2ba28b87c-1634097505869)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session5.PDF)
-    * [Report - Preparing by Sadegh Khosravi (PDF)]
-    * [Report - Preparing by Sadegh Khosravi (Latex Source - ZIP)]
+    * [Report - Prepared by Sadegh Khosravi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_5.pdf)
 
 <br>
 
@@ -131,6 +128,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/b9f95f8fb0f4db09bb800b66097529909779d752-1634383704858)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session6.PDF)
+    * [Report - Prepared by Aryan Kaveh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_6.pdf)
 
 
 <br>
