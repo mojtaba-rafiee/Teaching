@@ -93,8 +93,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/fb3a7344c77d2f7536cd66422a540dcc5546274a-1632652060798)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session5.PDF)
-   * [Report - Preparing by Ida Omoumi (PDF)]
-   * [Report - Preparing by Ida Omoumi (Latex Source - ZIP)]
+   * [<span style="color:red">Report - Preparing by Ida Omoumi (PDF)</span>]
+
 
 <br>
 
@@ -222,6 +222,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/0c95293a9eb3dc9b91be4bcc73c167e8282cc5d7-1634392779342)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session13.PDF)
+   * [Report - Preparing by Fatemeh Khorsand (PDF)]
       
 
 <br>
@@ -240,6 +241,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/142cb68a9d2f99952ec207c33bbc01eb3a9ba0c2-1634466401999)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session14.PDF)
+   * [Report - Preparing by Mahdi Bidram (PDF)]
       
 
 <br>
@@ -257,6 +259,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/e53f2a040bdc213c05850c56f2cd3355b6689652-1634738347208)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session15.PDF)
+   * [Report - Preparing by Melika Zarnegar (PDF)]
       
 
 <br>
