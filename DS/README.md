@@ -135,8 +135,7 @@ This course covers analysis and design of fundamental data structures and engage
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/c5be71e7e05ab79c9b5bf804d1f90a48560ad48b-1633256910084)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session8.PDF)
    * [Pseudocode conventions [Requested in class] (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Pseudocode_Conventions.pdf)
-   * [Report - Preparing by Mansoureh Haghanimanesh (PDF)]
-   * [Report - Preparing by Mansoureh Haghanimanesh (Latex Source - ZIP)]
+   * [Report - Prepared by Mansoureh Haghanimanesh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_8.pdf)
 
 
 <br>
@@ -169,7 +168,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/ebdb13a8e9f575129d2fdbc166a77133e9b8d780-1633787827581)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session10.PDF)
-   * [Report - Preparing by Maede Kamelan (PDF)]
+   * [Report - Prepared by Maede Kamelan (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_10.pdf)
    
 
 <br>
