@@ -150,6 +150,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/c73d742282aeb810359809dda7b5ebbdb52777fe-1634624884774)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session7.PDF)
+    * [Report - Preparing by Shina Atashfaraz & Fatemeh Rezaei (PDF)]
 
 
 <br>
@@ -169,6 +170,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/f4c193d4ce6fec71eb04af7e9fed6c462f595d68-1634702234782)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session8.PDF)
+    * [Report - Preparing by Amirsaeid Ariyanmehr (PDF)]
 
 
 <br>
