@@ -176,6 +176,29 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 9: ##
+    Saturday 1400-08-01
+    ```markdown
+    Basic measurement units in computers
+        * Memory measurement/Data storage measurement in a computer system:
+            * Bit (b), Byte (B), Word, Character,
+            * Kilobyte (KB), Megabyte (MB), Gigabyte (GB), Terabyte (TB),
+            * Petabyte (PB), Exabyte (EB), Kilobit (Kb), Megabit (Mb), Gigabit (Gb), Terabit (Tb),
+            * Difference between Kibi and Kilo in memory units.
+        * Data transmission measurement:
+            * Kilobit per second (Kbps),
+            * Megabit per second (Mbps),
+            * Gigabit per second.
+        * Measurement Unit of the processing unit:
+            * Hertz (Hz), Kilohertz (KHz), Megahertz (MHz),
+            * Gigahertz (GHz), Terahertz(THz), Petahertz (PHz), Exahertz (EHz).      
+    ```
+    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/26d49d105518f688f7823b9031e0be3bb6743150-1634988395854)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session9.PDF)
+
+
+<br>
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
