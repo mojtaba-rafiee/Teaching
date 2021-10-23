@@ -247,7 +247,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 * ## Lecture 15: ##
-    Sunday 1400-07-28
+    Wednesday 1400-07-28
     ```markdown
      Illustration of recursive function calls (data and program stack),
      Recursive version of insertion sort algorithm:
@@ -263,6 +263,21 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+* ## Lecture 16: ##
+    Saturday 1400-08-01
+    ```markdown
+     Recursive version of merge sort algorithm:
+        * Pseudocode,
+        * Discussion on in-place and out-of-place property of the merge sort algorithm,
+        * Correctness proof,
+        * Performance analysis.
+    ```
+   * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/30ea7d420579060f8f9eace2250ef09211fe1a80-1634997531059)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session16.PDF)
+      
+
+<br>
 
 <!--
 # App and Tools
