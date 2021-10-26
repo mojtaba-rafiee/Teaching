@@ -195,6 +195,29 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/26d49d105518f688f7823b9031e0be3bb6743150-1634988395854)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session9.PDF)
+    * [Report - Preparing by Abdollahi & Gholami (PDF)]
+
+<br>
+
+
+
+* ## Lecture 10: ##
+    Tuesday 1400-08-04
+    ```markdown
+    Number system
+        * Definitions, notations and conventions,
+        * Examples: numbering systems with base
+            * Decimal (10),
+            * Binary (2),
+            * Octal (8),
+            * Hexadecimal (16).
+        * How to convert a Base 10 number to another base, and examples,
+        * How to convert any base to a Base 10 number, and examples.
+    
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/08151f1323d0f64cb47b4f0f9f846ef748bc1e9b-1635229667908)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session10.PDF)
+    * [Report - Preparing by Mahdi Roshan (PDF)]
 
 
 <br>
