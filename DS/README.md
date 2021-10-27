@@ -100,7 +100,8 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/fb3a7344c77d2f7536cd66422a540dcc5546274a-1632652060798)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session5.PDF)
-   * [<span style="color:red">Report - Preparing by Ida Omoumi (PDF)</span>]
+   * [Report - Prepared by Ida Omoumi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_5.pdf)
+   * [Report - Prepared by Ida Omoumi (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_5.zip)
 
 
 <br>
