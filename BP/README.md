@@ -219,8 +219,25 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session10.PDF)
     * [Report - Preparing by Mahdi Roshan (PDF)]
 
+<br>
+
+* ## Lecture 11: ##
+    Wednesday 1400-08-05
+    ```markdown
+    Number systems:
+        * How to quickly convert Base 10 to 2 and vice versa with various examples,
+        * How to quickly convert Base 2 to 8 and vice versa with various examples,
+        * How to quickly convert Base 2 to 16 and vice versa with various examples,
+        * Prefixes for Bases 2, 8 and 16.
+    
+    ```
+    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8e20b1274e233522b331a1fdfa4bbfc9d5f763d8-1635306998840)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session11.PDF)
+    * [Report - Preparing by Aida Keshtkar (PDF)]
+
 
 <br>
+
 
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
