@@ -23,7 +23,8 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
-# Mid-Term Exam - Time and Location
+# Mid-Term Exam - Date/Time and Location
+* Date : 1400-09-04
 * Time   : Thursday 02:00 - 04:00 PM.
 * Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/69314).
 
