@@ -13,13 +13,21 @@ The main purpose of this course is to learn how to solve computational problems 
 * Learning the algorithmic thinking to solve the problem,
 * Algorithm description skills with Java programming language.
 
+<br>
 
 # Class Time and Location
 * Main Classes   : Tuesday 10:00 - 11:00 AM, Wednesday 07:30 - 08:30 AM.
 * Practice Class : Saturday 03:00 - 04:0 PM.
+* Location : The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/69314).
 
-<br>The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/69314).
+<br>
 
+
+# Mid-Term Exam - Time and Location
+* Time   : Thursday 02:00 - 04:00 PM.
+* Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/69314).
+
+<br>
 
 # Lectures
 * ## Lecture 1: ##
