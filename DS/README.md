@@ -287,6 +287,21 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 17: ##
+    Wednesday 1400-08-05
+    ```markdown
+     Solving recurrences:
+        * Guess and induction method with various examples, ✅
+        * Substitution method,
+        * Recursion-tree method,
+        * Master theorem.
+    ```
+   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/af7d60421d51d2c7caad0771a5a20718d2a83cf9-1635343055777)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session17.PDF)
+      
+
+<br>
+
 <!--
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
