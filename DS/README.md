@@ -10,15 +10,22 @@
 
 This course covers analysis and design of fundamental data structures and engages students to use data structures as tools to algorithmically design efficient computer programs.
 
+<br>
 
 # Class Time and Location
 
-* Main Classes    : Saturday  05:30 - 06:30 PM, Wednesday 05:30 - 06:30 PM.
-* Practice Class  : Sunday    02:00 - 03:00 PM.
+* Main Class Times    : Saturday  05:30 - 06:30 PM, Wednesday 05:30 - 06:30 PM.
+* Practice Class Time : Sunday    02:00 - 03:00 PM.
+* Location : The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
 
+<br>
 
-<br>The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
+# Mid-Term Exam - Date/Time and Location
+* Date : 1400-09-11
+* Time   : Thursday 09:00 - 12:00 PM.
+* Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
 
+<br>
 
 # Lectures
 * ## Lecture 1: ##
