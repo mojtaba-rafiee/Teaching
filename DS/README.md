@@ -197,7 +197,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/549970b9db1fb378c95c12a925fcd21fccc8506d-1633861627302)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session11.PDF)
-   * [Report - Preparing by Saba Abdi (PDF)]
+   * [<span style="color:red">Report - Preparing by Saba Abdi (PDF)</span>]
    
 
 <br>
@@ -214,7 +214,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/1e5b1174ffa62eef149c1bd7b4007a56b0ace643-1634133468029)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session12.PDF)
-   * [Report - Preparing by Sepideh Davatsaz-Esfahani (PDF)]
+   * [Report - Prepared by Sepideh Davatsaz-Esfahani (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_12.pdf)
    
 
 <br>
