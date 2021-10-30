@@ -248,6 +248,22 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 12: ##
+    Saturday 1400-08-08
+    ```markdown
+    Binary number representation:
+        * Unsigned representation and its examples,
+        * Signed representation:
+            * Sign-Magnitude form and its examples,
+            * 1's complement form and its examples,
+            * 2's complement form and its examples.
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/234a5b3e74c1cf2499c89420f60f83cd1758e196-1635593246313)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session12.PDF)
+
+<br>
+
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
