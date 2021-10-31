@@ -229,7 +229,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/0c95293a9eb3dc9b91be4bcc73c167e8282cc5d7-1634392779342)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session13.PDF)
-   * [Report - Preparing by Fatemeh Khorsand (PDF)]
+   * [Report - Prepared by Fatemeh Khorsand (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_13.pdf)
       
 
 <br>
