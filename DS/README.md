@@ -283,6 +283,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/30ea7d420579060f8f9eace2250ef09211fe1a80-1634997531059)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session16.PDF)
+   * [Report - Preparing by Zahra Darvishi (PDF)]
       
 
 <br>
@@ -298,6 +299,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/af7d60421d51d2c7caad0771a5a20718d2a83cf9-1635343055777)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session17.PDF)
+   * [Report - Preparing by Maryam Nazarrad (PDF)]
       
 
 <br>
@@ -314,11 +316,31 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/a713991932fdc45781e8232f6ed38b5bcc31303e-1635602334011)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session18.PDF)
+   * [Report - Preparing by Atefeh Ghoghe (PDF)]
       
 
 <br>
 
-<!--
+
+* ## Lecture 19: ##
+    Sunday 1400-08-09
+    ```markdown
+     Solving recurrences:
+        * Guess and induction method with various examples, 
+        * Substitution method, 
+        * Recursion-tree method, ✅
+        * Master theorem. ✅
+    ```
+   * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/4008ee60117231c8d1759256445741944857bac6-1635676122131)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session19.PDF)
+   * [Report - Preparing by Shaqayeq Esmaeilian (PDF)]
+      
+
+<br>
+
+
+
+<!-- Zahra Fereyduni > Session_20
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
