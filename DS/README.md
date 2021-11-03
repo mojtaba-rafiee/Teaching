@@ -310,7 +310,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```markdown
      Solving recurrences:
         * Guess and induction method with various examples, 
-        * Substitution method, ✅
+        * Substitution method and examples, ✅
         * Recursion-tree method, ✅
         * Master theorem.
     ```
@@ -328,7 +328,7 @@ This course covers analysis and design of fundamental data structures and engage
      Solving recurrences:
         * Guess and induction method with various examples, 
         * Substitution method, 
-        * Recursion-tree method, ✅
+        * Recursion-tree method and examples, ✅
         * Master theorem. ✅
     ```
    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/4008ee60117231c8d1759256445741944857bac6-1635676122131)
@@ -338,9 +338,25 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 20: ##
+    Wednesday 1400-08-12
+    ```markdown
+     Solving recurrences:
+        * Guess and induction method with various examples, 
+        * Substitution method, 
+        * Recursion-tree method, 
+        * Master theorem, and its proof. ✅
+    ```
+   * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/7cd8f6910976eda66e7e27ffee67fa57b79fd329-1635947703554)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session20.PDF)
+   * [Report - Preparing by Zahra Fereyduni (PDF)]
+      
+
+<br>
 
 
-<!-- Zahra Fereyduni > Session_20
+
+<!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
