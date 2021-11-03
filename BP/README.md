@@ -282,6 +282,23 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+* ## Lecture 14: ##
+    Wednesday 1400-08-12
+    ```markdown
+    Real number representation:
+            * How to convert Base 10 to 2 and example,           
+            * How to convert Base 2 to 10 and example,
+            * Normalized floating-point representation,
+            * The IEEE Standard for Floating-Point Arithmetic (IEEE 754).
+    ```
+    * [Class Video](https://class8.ui.ac.ir/playback/presentation/2.3/86619d2bc090624b32de900b2957f80caadbe33b-1635911727931)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session14.PDF)
+
+<br>
+
+
+
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
