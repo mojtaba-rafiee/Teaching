@@ -227,7 +227,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/08151f1323d0f64cb47b4f0f9f846ef748bc1e9b-1635229667908)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session10.PDF)
-    * [Report - Preparing by Mahdi Roshan (PDF)]
+    * [Report - Prepared by Mahdi Roshan (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_10.pdf)
 
 <br>
 
@@ -243,7 +243,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8e20b1274e233522b331a1fdfa4bbfc9d5f763d8-1635306998840)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session11.PDF)
-    * [Report - Preparing by Aida Keshtkar (PDF)]
+    * [Report - Prepared by Aida Keshtkar (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_11.pdf)
 
 
 <br>
