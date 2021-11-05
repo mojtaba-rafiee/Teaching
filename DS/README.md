@@ -365,7 +365,6 @@ This course covers analysis and design of fundamental data structures and engage
 
 
  # Homework Series
- 
  * ## HW1: ##
     ```markdown
     * Release:  Saturday 1400/08/15, 00:00 PM
