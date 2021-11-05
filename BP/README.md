@@ -296,18 +296,19 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session14.PDF)
 
 <br>
+# Homeworks
+* ## HW1: ##
 
- # Homework Series
- 
- * ## HW1: ##
     ```markdown
     * Release:  Saturday 1400/08/15, 00:00 PM
     * Deadline: Monday   1400/09/01, 11:55 PM
     * Grade: 70 points
-   ```
+    ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/HW1.pdf)
+
    
- <br>
+<br>
+
  
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
