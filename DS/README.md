@@ -364,9 +364,21 @@ This course covers analysis and design of fundamental data structures and engage
 -->
 
 
+ # Homework Series
+ 
+ * ## HW1: ##
+    ```markdown
+    * Release:  Saturday 1400/08/15, 00:00 PM
+    * Deadline: Monday   1400/09/01, 11:55 PM
+    * Grade: 40 points
+   ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
+   
+ <br>
 
-# Problem Solving Warm Up
-* [Warm Up - 1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
+
+# Warm-up Question
+* [WQ1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
 
 
 # References
