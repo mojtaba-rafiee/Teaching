@@ -296,6 +296,22 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session14.PDF)
 
 <br>
+
+
+* ## Lecture 15: ##
+    Saturday 1400-08-15
+    ```markdown
+    The IEEE Standard for Floating-Point Arithmetic (IEEE 754) - Single precision (32 bit):
+            * Examples,
+            * Maximum and minimum numbers in IEEE 754,
+            * Special cases for Part 'e' in IEEE 754 (0 and 255).
+    ```
+    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/60dea9d70dc3d82230e6445a974005ccc5f89f4d-1636198178438)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session15.PDF)
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
