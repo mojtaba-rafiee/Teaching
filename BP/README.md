@@ -23,6 +23,12 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+# Evaluations and feedback
+* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/qWmjkoLA9LdKQrVbA).
+
+
+<br>
+
 # Mid-Term Exam - Date/Time and Location
 * Date : 1400-09-04
 * Time   : Thursday 02:00 - 04:00 PM.
