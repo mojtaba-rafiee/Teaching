@@ -20,6 +20,14 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+# Evaluations and feedback
+* Dear students, during the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/suWmZ9XsAb4zkmN76).
+
+
+<br>
+
+
 # Mid-Term Exam - Date/Time and Location
 * Date : 1400-09-11
 * Time   : Thursday 09:00 - 12:00 PM.
