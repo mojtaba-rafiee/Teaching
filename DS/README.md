@@ -355,6 +355,20 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 21: ##
+    Saturday 1400-08-15
+    ```markdown
+     Solving recurrences - Master theorem and its proof,
+     Floors and ceilings in the master recurrence,
+     Introduction to elementary data structures.
+    ```
+   * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/8c0607c6b9a9c5906cb88b8109a32806c9e2b30c-1636207138752)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session21.PDF)
+   * [Report - Preparing by Shiva Hosseinizadeh (PDF)]
+      
+
+<br>
+
 
 <!-- 
 # App and Tools
