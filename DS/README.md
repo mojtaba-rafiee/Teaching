@@ -377,6 +377,23 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 22: ##
+    Sunday 1400-08-16
+    ```markdown
+     Elementary data structures:
+        * Lists,
+        * Linked lists:
+            * Singly linked list,
+            * Doubly linked list,
+            * Circular linked list.
+    ```
+   * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/6db7d7f691f84f90399938c02e94e33ca7259d1a-1636280966462)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session22.PDF)
+   * [Report - Preparing by Hosna Atghia (PDF)]
+      
+
+<br>
+
 
 <!-- 
 # App and Tools
