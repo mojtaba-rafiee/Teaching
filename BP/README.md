@@ -339,7 +339,7 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
  
- # Suggested References
+# References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
  * <a href="https://drive.google.com/file/d/1d2iNPjf8jOJQYp6jXU8ahicqVNCPxjyz/view?usp=sharing">‫‪‫‪Java‬‬ ‫‪How‬‬ ‫‪to‬‬ Program‬‬ (PDF)</a>
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/java_in_a_nutshell_-_a_desktop_quick_reference_2019_7th_edition_ben_evans_david_flanagan.pdf">‫‪‫‪Java in a Nutshell (PDF)</a> 
