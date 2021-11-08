@@ -331,6 +331,13 @@ The main purpose of this course is to learn how to solve computational problems 
    
 <br>
 
+# App and Tools
+* <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
+* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/InstallationGuideVideo.mp4">Installation guide video</a>
+
+
+<br>
  
  # References
  * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪    to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
