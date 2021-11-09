@@ -267,6 +267,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/234a5b3e74c1cf2499c89420f60f83cd1758e196-1635593246313)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session12.PDF)
+    * [Report - Preparing by Gheychisaz & ? (PDF)]
 
 <br>
 
@@ -285,6 +286,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/2e0d4cbbbc9df0e13cad0a3e16c52a9e188a0e42-1635834399165)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session13.PDF)
+    * [Report - Preparing by ? (PDF)]
 
 <br>
 
@@ -300,6 +302,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class8.ui.ac.ir/playback/presentation/2.3/86619d2bc090624b32de900b2957f80caadbe33b-1635911727931)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session14.PDF)
+    * [Report - Preparing by Arvin Fadavi (PDF)]
 
 <br>
 
@@ -314,6 +317,23 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/60dea9d70dc3d82230e6445a974005ccc5f89f4d-1636198178438)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session15.PDF)
+    * [Report - Preparing by Mohamma-Mahdi Jafari (PDF)]
+
+<br>
+
+
+* ## Lecture 16: ##
+    Tuesday 1400-08-18
+    ```markdown
+    Java programming language:
+            * History,
+            * Features,
+            * Applications,
+            * Editions.
+    ```
+    * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/74002fc090de3eb0b35aff14add99c04a86dc8e6-1636439372199)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session16.PDF)
+    * [Report - Preparing by Alireza Darparesh (PDF)]
 
 <br>
 
