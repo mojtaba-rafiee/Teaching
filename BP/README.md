@@ -332,10 +332,11 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 # App and Tools
-* <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
-* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
+* <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>).
+* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version).
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/References/InstallationGuideVideo.mp4">Installation guide video</a>
-* <a href="https://quera.ir/overview/add_to_course/course/9851">Quera</a> (Please <b>Register</b>, <b>Login</b> and <b>Test</b> the sample application [HelloWorld.java].)
+* <a href="https://quera.ir/overview/add_to_course/course/9851">Quera</a> (Please <b>Register</b>, <b>Login</b> and <b>Test</b> the sample application [HelloWorld.java]).
+* <a href="https://www.onlinegdb.com/online_java_compiler">OnlineGDB</a> (Quick and easy way to run java program online).
 
 
 <br>
