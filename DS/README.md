@@ -402,8 +402,8 @@ This course covers analysis and design of fundamental data structures and engage
         * Search,
         * Insert,
         * Delete,
-        * An application of linked lists (Josephus problem),
-        * Implementing pointers and objects in languages that do not provide them.
+     An application of linked lists (Josephus problem),
+     Implementing pointers and objects in languages that do not provide them.
     ```
    * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/fa0512dacef1c8e536eabf56602b1ebec3dd4d32-1636552673794)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session23.PDF)
