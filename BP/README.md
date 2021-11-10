@@ -350,7 +350,7 @@ The main purpose of this course is to learn how to solve computational problems 
         * Types of representations for algorithms and its examples:
             * In the form of sentences in Persian and English,
             * In the form of a flowchart,
-            * In the form of a pseudocodeو
+            * In the form of a pseudocode,
             * In the form of a program in a specific programming language such as Java.
     ```
     * [Class Video](https://class8.ui.ac.ir/playback/presentation/2.3/c6c6b0c4d2b87ea6063446e9ecf4f5b12ecc1bb4-1636516704195)
