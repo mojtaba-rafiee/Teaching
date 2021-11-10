@@ -395,6 +395,23 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 23: ##
+    Wednesday 1400-08-19
+    ```markdown
+     Operations on linked lists:
+        * Search,
+        * Insert,
+        * Delete,
+        * An application of linked lists (Josephus problem),
+        * Implementing pointers and objects in languages that do not provide them.
+    ```
+   * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/fa0512dacef1c8e536eabf56602b1ebec3dd4d32-1636552673794)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session23.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
