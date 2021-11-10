@@ -348,8 +348,8 @@ The main purpose of this course is to learn how to solve computational problems 
     Algorithms: 
         * Definition and its properties,
         * Types of representations for algorithms and its examples:
-            * In the form of sentences in Persian and English,
-            * In the form of a flowchart,
+            * In the form of sentences in Persian and English, ✅
+            * In the form of a flowchart, ✅
             * In the form of a pseudocode,
             * In the form of a program in a specific programming language such as Java.
     ```
