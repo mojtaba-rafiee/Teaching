@@ -341,7 +341,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/4008ee60117231c8d1759256445741944857bac6-1635676122131)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session19.PDF)
-   * [Report - Preparing by Shaqayeq Esmaeilian (PDF)]
+   * [Report - Prepared by Shaqayeq Esmaeilian (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_19.pdf)
       
 
 <br>
