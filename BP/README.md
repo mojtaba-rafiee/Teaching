@@ -360,6 +360,24 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 18: ##
+    Saturday 1400-08-22
+    ```markdown
+       The flowchart representation for algorithms:
+            * Symbols,
+            * The control structures:
+                * Sequential structure,
+                * Decision making structure,
+                * Looping structure.
+            * Examples and practices.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/a38aefd010fd149734a88bda1c7e2263944665e6-1636802864091)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session18.PDF)
+    * [Report - Preparing by ? (PDF)]
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
