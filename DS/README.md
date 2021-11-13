@@ -412,6 +412,27 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+* ## Lecture 24: ##
+    Saturday 1400-08-22
+    ```markdown
+    Linked lists - Implementing pointers and objects in languages that do not provide them,
+    Stack data structure:
+        * Definition and graphical representation,
+        * Operations on stack:
+            * isEmpty,
+            * Push,
+            * Pop,
+            * Top.
+        * Its applications.
+    ```
+   * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/fe7a058851d45a650359bb00601acb52e10cee7b-1636811895251)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session24.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
