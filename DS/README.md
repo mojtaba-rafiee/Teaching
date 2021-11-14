@@ -433,6 +433,27 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 25: ##
+    Sunday 1400-08-23
+    ```markdown
+    Linked lists - Implementing pointers and objects in languages that do not provide them,
+    Stack data structure - Applications:
+        * Function call,
+        * Stock span problem,
+        * Train parking problem.
+    Queue data structure:
+        * Definition and graphical representation,
+        * Operations on queue:
+            * EnQueue,
+            * DeQueue.
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/4ef574c2c34ade99563ef1ab972c38a9ebb52285-1636885664408)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session25.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
