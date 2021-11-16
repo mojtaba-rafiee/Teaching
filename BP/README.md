@@ -378,6 +378,27 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 19: ##
+    Tuesday 1400-08-25
+    ```markdown
+    Computer Programming Lab - Session 1:
+        * Preparing infrastructure for programming:
+            * Install JDK 8,
+            * Install IntelliJ IDEA,
+            * Ensure JDK 8 installation,
+            * Some Useful Commands in CMD: create directory, change directory, delete directory, clear page and etc,
+            * Compile and run a java program.
+        * Naming conventions: CamelCase, PascalCase.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/681e12704ded816b82e2a2b22f95dd183105fa0f-1637044190441)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session19.PDF)
+    * [Report - Preparing by ? (PDF)]
+    * [Some useful commands in Windows Command Prompt](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
+
+](https://app.diagrams.net/)
+
+<br>
+
 
 # Homeworks
 * ## HW1: ##
