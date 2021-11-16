@@ -395,7 +395,6 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Report - Preparing by ? (PDF)]
     * [Some useful commands in Windows Command Prompt](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
 
-](https://app.diagrams.net/)
 
 <br>
 
