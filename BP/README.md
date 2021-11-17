@@ -399,6 +399,24 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 20: ##
+    Wednesday 1400-08-26
+    ```markdown
+    Computer Programming Lab - Session 2:
+        * Java program structure: Project, Package, Class, and Member.
+        * Java program components: ًReserved words (keywords)✅, Data types✅, Identifiers✅, and Operators.
+        * Data types:
+            * Primitive data types: boolean, char, byte, short, int, long, float, double.
+            * Non-primitive data types: String, Array, and etc.
+        * Variables and Initialization.
+    ```
+    * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/9812c28b56179844c720bfc10c0d5ee96e5e8192-1637121642431)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session20.PDF)
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
 # Homeworks
 * ## HW1: ##
 
