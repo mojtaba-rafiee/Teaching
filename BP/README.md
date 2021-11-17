@@ -302,7 +302,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class8.ui.ac.ir/playback/presentation/2.3/86619d2bc090624b32de900b2957f80caadbe33b-1635911727931)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session14.PDF)
-    * [Report - Preparing by Arvin Fadavi (PDF)]
+    * [<span style="color:red">Report - Preparing by Arvin Fadavi (PDF)</span>]
 
 <br>
 
@@ -317,7 +317,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/60dea9d70dc3d82230e6445a974005ccc5f89f4d-1636198178438)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session15.PDF)
-    * [Report - Preparing by Mohamma-Mahdi Jafari (PDF)]
+    * [<span style="color:red">Report - Preparing by Mohamma-Mahdi Jafari (PDF)</span>]
 
 <br>
 
@@ -333,7 +333,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/74002fc090de3eb0b35aff14add99c04a86dc8e6-1636439372199)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session16.PDF)
-    * [Report - Preparing by Alireza Darparesh (PDF)]
+    * [<span style="color:red">Report - Preparing by Alireza Darparesh (PDF)</span>]
 
 <br>
 
