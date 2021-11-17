@@ -428,7 +428,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/fe7a058851d45a650359bb00601acb52e10cee7b-1636811895251)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session24.PDF)
-   * [Report - Preparing by ? (PDF)]
+   * [Report - Preparing by Farzaneh Molaeii (PDF)]
       
 
 <br>
@@ -449,10 +449,37 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/4ef574c2c34ade99563ef1ab972c38a9ebb52285-1636885664408)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session25.PDF)
-   * [Report - Preparing by ? (PDF)]
+   * [Report - Preparing by Zahra Rashidi (PDF)]
       
 
 <br>
+
+
+* ## Lecture 26: ##
+    Wednesday 1400-08-26
+    ```markdown
+    Queue data structure - Circular Queues:
+        * Definition and graphical representation,
+        * Operations on queue:
+            * isFull,
+            * isEmpty,
+            * EnQueue,
+            * DeQueue.
+    Tree data structure:
+        * Definitions and notions:
+            * Free tree, Rooted tree, Labeled tree, k-tree,
+            * Balanced tree, Perfect balanced tree, Ordered tree,
+            * Forest, Depth, Height, (Proper) Descendant, (Proper) Ancestor,
+            * Internal node, External node (Leaf), Root, Parent, Children.
+        * Graphical representation.
+    ```
+   * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/5de6783cf9f011ec54fc4a59df2cc4f4d880baf0-1637157569538)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session26.PDF)
+   * [Report - Preparing by Fatemeh Hashemian (PDF)]
+      
+
+<br>
+
 
 <!-- 
 # App and Tools
