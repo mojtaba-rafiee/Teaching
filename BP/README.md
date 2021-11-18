@@ -333,7 +333,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/74002fc090de3eb0b35aff14add99c04a86dc8e6-1636439372199)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session16.PDF)
-    * [<span style="color:red">Report - Preparing by Alireza Darparesh (PDF)</span>]
+    * [Report - Prepared by Alireza Darparesh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_16.pdf)
 
 <br>
 
