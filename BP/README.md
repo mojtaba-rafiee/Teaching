@@ -317,7 +317,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/60dea9d70dc3d82230e6445a974005ccc5f89f4d-1636198178438)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session15.PDF)
-    * [<span style="color:red">Report - Preparing by Mohamma-Mahdi Jafari (PDF)</span>]
+    * [Report - Prepared by Mohamma-Mahdi Jafari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_15.pdf)
 
 <br>
 
