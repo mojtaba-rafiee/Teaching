@@ -481,6 +481,24 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 27: ##
+    Saturday 1400-08-29
+    ```markdown
+    Tree data structure - Traversal
+        * Breadth-first order and its example,
+        * Depth-first order:
+            * Preorder and its example,
+            * Inorder and its example,
+            * Postorder and its example.
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/c54a2cbce2cc1d88ec264a1a8da186d79b780b0c-1637416633132)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session27.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
