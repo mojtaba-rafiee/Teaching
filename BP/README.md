@@ -417,6 +417,29 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+* ## Lecture 21: ##
+    Saturday 1400-08-29
+    ```markdown
+    Computer Programming Lab - Session 3:
+        * Java Type Casting:
+            * Widening casting: byte --> short --> char --> int --> long --> float --> double,
+            * Narrowing casting: double --> float --> long --> int --> char --> short --> byte.
+        * Java Operators:
+            * Arithmetic operators: +, *, /, -, %, ++, -- ✅
+            * Bitwise operators: & (and) , | (or), ^ (xor), ~ (not), >> (right shift), << (left shift)
+            * Assignment operators: =, +=, *=, /=, -=, %=, &=, |=, ^=
+            * Comparison operators: >, >=, <, <=, ==,!=
+            * Logical operators: && (and), || (or), ! (not)
+    ```
+    * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/fd5184f1b71b6163ce9db45344764aa5789303b3-1637407654330)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session21.PDF)
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
