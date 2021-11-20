@@ -453,6 +453,20 @@ The main purpose of this course is to learn how to solve computational problems 
    
 <br>
 
+
+* ## HW2: ##
+
+    ```markdown
+    * Release:  Saturday 1400/08/29, 00:00 PM
+    * Deadline: -   1400/00/00, 00:00 PM
+    * Grade: 30 points
+    ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/HW2.pdf)
+
+   
+<br>
+
+
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>).
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version).
