@@ -499,6 +499,27 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 28: ##
+    Sunday 1400-08-30
+    ```markdown
+    Tree data structure - Traversal
+        * Traversal and building a unique binary tree:
+            * Preorder, ❌
+            * Inorder, ❌
+            * Postorder, ❌
+            * Level order and Postorder/Preorder, ❌
+            * Preorder and Postorder, ❌
+            * Preorder and Inorder, ✅
+            * Inorder and Postorder. ✅
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8e52914ff239367382f11d6a7376f246c4320141-1637490501046)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session28.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
