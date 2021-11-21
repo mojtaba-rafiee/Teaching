@@ -286,7 +286,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/2e0d4cbbbc9df0e13cad0a3e16c52a9e188a0e42-1635834399165)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session13.PDF)
-    * [<span style="color:red">Report - Preparing by Omid Sarmadi (PDF)</span>]
+    * [Report - Prepared by Omid Sarmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_13.pdf)
 
 <br>
 
