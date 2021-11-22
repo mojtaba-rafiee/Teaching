@@ -540,6 +540,7 @@ This course covers analysis and design of fundamental data structures and engage
    
 <br>
 
+<!--
 * ## HW2: ##
 
     ```markdown
@@ -551,7 +552,7 @@ This course covers analysis and design of fundamental data structures and engage
 
    
 <br>
-
+-->
 
 # Warm-up Question
 * [WQ1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
