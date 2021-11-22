@@ -540,6 +540,18 @@ This course covers analysis and design of fundamental data structures and engage
    
 <br>
 
+* ## HW2: ##
+
+    ```markdown
+    * Release:  Monday 1400/09/01, 00:00 PM
+    * Deadline: Friday   1400/09/12, 11:55 PM
+    * Grade: 40 points
+    ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
+
+   
+<br>
+
 
 # Warm-up Question
 * [WQ1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
