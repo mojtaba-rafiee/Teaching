@@ -449,6 +449,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * Grade: 70 points
     ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/HW1.pdf)
+    * [Solution (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/HWS1.pdf)
 
    
 <br>
