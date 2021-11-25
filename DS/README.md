@@ -519,6 +519,26 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 29: ##
+    Sunday 1400-09-03
+    ```markdown
+    Tree data structure - k-tree implementation:
+        * Using two lists, along with a description of the advantages and disadvantages,
+        * Using k+2 lists, along with a description of the advantages and disadvantages,
+        * Using link lists, along with a description of its advantages compared to the list,
+    Convert a k-tree to its equivalent binary tree,
+        * The relationship of traversals in a k-tree (T) and its equivalent binary tree (T'):
+            * Preorder(T) = Preorder (T'), ✅
+            * Inorder(T) = Inorder (T'), ❌
+            * Postorder(T) = Postorder (T'), ❌
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/7dbc1feb79821747d65c9adab772d0111061b361-1637762270141)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session29.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
 
 <!-- 
 # App and Tools
