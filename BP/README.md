@@ -441,6 +441,41 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 22: ##
+    Tuesday 1400-09-02
+    ```markdown
+    Browse course materials and solve problems:
+        * Prime and composite number problems,
+        * Car sell problem,
+        * Triangulation problem,
+        * Body Mass Index (BMI) problem.        
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/250039ee3e05078a94110787b8b91e4200c21638-1637648951124)
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session22.PDF)
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
+* ## Lecture 23: ##
+    Saturday 1400-09-06
+    ```markdown
+    Computer Programming Lab - Session 4:
+        * Java Operators:
+            * Arithmetic operators: +, *, /, -, %, ++, -- 
+            * Bitwise operators: & (and) , | (or), ^ (xor), ~ (not), >> (right shift), << (left shift) ✅
+            * Assignment operators: =, +=, *=, /=, -=, %=, &=, |=, ^=
+            * Comparison operators: >, >=, <, <=, ==,!=
+            * Logical operators: && (and), || (or), ! (not)
+    ```
+    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/f2b3ffdcb0ca98871ef3524a2d606ebf83b32f12-1638012627906)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session23.PDF)
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
