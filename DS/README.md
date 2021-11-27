@@ -35,6 +35,14 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+# Errata and Corrections
+* We are continually improving the material and making updates based on feedback from classroom comments and emails.
+* Provoded by Sepideh Davatsaz-Esfahani [**lectures 13-23 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_13TO23.pdf)
+
+<br>
+
+
 # Lectures
 * ## Lecture 1: ##
     Saturday 1400-06-27
