@@ -540,6 +540,29 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 30: ##
+    Saturday 1400-09-06
+    ```markdown
+    Proof techniques for traversals in a k-tree (T) and its equivalent binary tree (T'):
+            * Preorder(T) = Preorder (T'), ✅
+            * Inorder(T) = Inorder (T'), ❌
+            * Postorder(T) = Postorder (T'), ❌
+    Trie data structure:
+        * Definition and graphical representation,
+        * Operations on trie:
+            * Search,
+            * Insert,
+            * Delete.
+        * Its applications: Dictionary, Autocomplete.
+    ```
+   * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d9a2a570df71ced2f95322ff3000ea8fae622135-1638021514527)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session30.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
