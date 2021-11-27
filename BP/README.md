@@ -451,7 +451,7 @@ The main purpose of this course is to learn how to solve computational problems 
         * Body Mass Index (BMI) problem.        
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/250039ee3e05078a94110787b8b91e4200c21638-1637648951124)
-    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session22.PDF)
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session22.pdf)
     * [Report - Preparing by ? (PDF)]
 
 
@@ -469,7 +469,7 @@ The main purpose of this course is to learn how to solve computational problems 
             * Logical operators: && (and), || (or), ! (not)
     ```
     * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/f2b3ffdcb0ca98871ef3524a2d606ebf83b32f12-1638012627906)
-    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session23.PDF)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session23.pdf)
     * [Report - Preparing by ? (PDF)]
 
 
