@@ -587,6 +587,7 @@ This course covers analysis and design of fundamental data structures and engage
     * Grade: 40 points
     ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
+    * [Solution (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HWS1.pdf)
 
    
 <br>
