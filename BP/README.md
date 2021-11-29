@@ -444,7 +444,7 @@ The main purpose of this course is to learn how to solve computational problems 
 * ## Lecture 22: ##
     Tuesday 1400-09-02
     ```markdown
-    Browse course materials and solve problems:
+    Review course materials and solve problems:
         * Prime and composite number problems,
         * Car sell problem,
         * Triangulation problem,
