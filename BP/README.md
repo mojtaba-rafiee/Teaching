@@ -393,7 +393,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/681e12704ded816b82e2a2b22f95dd183105fa0f-1637044190441)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session19.PDF)
-    * [Report - Preparing by ? (PDF)]
+    * [Report - Preparing by Hamed Soltani (PDF)]
     * [Some useful commands in Windows Command Prompt](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
 
 
@@ -435,7 +435,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/fd5184f1b71b6163ce9db45344764aa5789303b3-1637407654330)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session21.PDF)
-    * [Report - Preparing by ? (PDF)]
+    * [Report - Preparing by Golnar Shafiee (PDF)]
 
 
 <br>
@@ -452,7 +452,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/250039ee3e05078a94110787b8b91e4200c21638-1637648951124)
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session22.pdf)
-    * [Report - Preparing by ? (PDF)]
+    * [Report - Preparing by Houman Jafari (PDF)]
 
 
 <br>
@@ -470,7 +470,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/f2b3ffdcb0ca98871ef3524a2d606ebf83b32f12-1638012627906)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session23.PDF)         
-    * [Report - Preparing by ? (PDF)]
+    * [Report - Preparing by Ali Barfar (PDF)]
 
 
 <br>
