@@ -374,7 +374,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/a38aefd010fd149734a88bda1c7e2263944665e6-1636802864091)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session18.PDF)
-    * [Report - Preparing by Nastaran Firooz-Abadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_18.pdf)
+    * [Report - Prepared by Nastaran Firooz-Abadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_18.pdf)
     * [Diagram.net - A free online diagramming application and flowchart maker](https://app.diagrams.net/)
 
 <br>
