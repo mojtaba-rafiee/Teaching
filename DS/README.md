@@ -522,7 +522,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8e52914ff239367382f11d6a7376f246c4320141-1637490501046)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session28.PDF)
-   * [Report - Preparing by ? (PDF)]
+   * [Report - Preparing by Zahra Zamani (PDF)]
       
 
 <br>
@@ -542,7 +542,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/7dbc1feb79821747d65c9adab772d0111061b361-1637762270141)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session29.PDF)
-   * [Report - Preparing by ? (PDF)]
+   * [Report - Preparing by Maryam Dehghan (PDF)]
       
 
 <br>
@@ -565,7 +565,24 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d9a2a570df71ced2f95322ff3000ea8fae622135-1638021514527)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session30.PDF)
-   * [Report - Preparing by ? (PDF)]
+   * [Report - Preparing by Reyhane Dehghani (PDF)]
+      
+
+<br>
+
+
+* ## Lecture 31: ##
+    Saturday 1400-09-07
+    ```markdown
+    Review course materials and solve problems:
+        * List and Linked list data structures,
+        * Simple queue and circular queue,
+        * Stack data structure.
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/0fb6915471ff7bf8cb66cc7dc00bc75b78e0c941-1638095290313)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session31.PDF)
+   * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
+   * [Report - Preparing by Matin Askari (PDF)]
       
 
 <br>
