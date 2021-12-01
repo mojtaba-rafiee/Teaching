@@ -496,6 +496,24 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 25: ##
+    Tuesday 1400-09-10
+    ```markdown
+    Computer Programming Lab - Session 6:
+        * Java basic output and examples:
+            * print,
+            * println,
+            * printf, and some formats.
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/8d5e369fc0e20cfb01ba38d3e0c41bf499663aac-1638331141869)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session25.PDF)
+    * [Some useful details about formats in 'printf' statement](https://www.baeldung.com/java-printstream-printf)         
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
