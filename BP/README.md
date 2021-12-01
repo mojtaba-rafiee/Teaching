@@ -318,7 +318,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/60dea9d70dc3d82230e6445a974005ccc5f89f4d-1636198178438)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session15.PDF)
-    * [Report - Prepared by Mohamma-Mahdi Jafari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_15.pdf)
+    * [Report - Prepared by Mohammad-Mahdi Jafari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_15.pdf)
 
 <br>
 
@@ -490,14 +490,14 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/fcaed10b57dac621e346d4e071010e0fbbee190a-1638253693847)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session24.PDF)
     * [Some useful details about statements](https://www.w3schools.com/java/default.asp)         
-    * [Report - Preparing by ? (PDF)]
+    * [Report - Preparing by Zahra Mahboub (PDF)]
 
 
 <br>
 
 
 * ## Lecture 25: ##
-    Tuesday 1400-09-10
+    Wednesday 1400-09-10
     ```markdown
     Computer Programming Lab - Session 6:
         * Java basic output and examples:
