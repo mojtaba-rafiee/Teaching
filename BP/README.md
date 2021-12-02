@@ -533,7 +533,7 @@ The main purpose of this course is to learn how to solve computational problems 
 
     ```markdown
     * Release:  Saturday 1400/08/29, 00:00 PM
-    * Deadline: -   1400/00/00, 00:00 PM
+    * Deadline: -   1400/09/16, 11:00 PM
     * Grade: 30 points
     ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/HW2.pdf)
