@@ -356,7 +356,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class8.ui.ac.ir/playback/presentation/2.3/c6c6b0c4d2b87ea6063446e9ecf4f5b12ecc1bb4-1636516704195)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session17.PDF)
-    * [Report - Preparing by Alireza Chegeni (PDF)]
+    * [<span style="color:red">Report - Preparing by Alireza Chegeni (PDF)</span>]
 
 <br>
 
@@ -393,7 +393,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/681e12704ded816b82e2a2b22f95dd183105fa0f-1637044190441)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session19.PDF)
-    * [Report - Preparing by Hamed Soltani (PDF)]
+    * [<span style="color:red">Report - Preparing by Hamed Soltani (PDF)</span>]
     * [Some useful commands in Windows Command Prompt](https://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html)
 
 
@@ -452,7 +452,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/250039ee3e05078a94110787b8b91e4200c21638-1637648951124)
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session22.pdf)
-    * [Report - Preparing by Houman Jafari (PDF)]
+    * [<span style="color:green">Report - Preparing by Houman Jafari (PDF)</span>]
 
 
 <br>
@@ -490,7 +490,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/fcaed10b57dac621e346d4e071010e0fbbee190a-1638253693847)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session24.PDF)
     * [Some useful details about statements](https://www.w3schools.com/java/default.asp)         
-    * [Report - Preparing by Zahra Mahboub (PDF)]
+    * [<span style="color:green">Report - Preparing by Zahra Mahboub (PDF)</span>]
 
 
 <br>
