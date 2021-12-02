@@ -602,7 +602,7 @@ This course covers analysis and design of fundamental data structures and engage
 
     ```markdown
     * Release:  Saturday 1400/08/15, 00:00 PM
-    * Deadline: Monday   1400/09/01, 11:55 PM
+    * Deadline: Monday   1400/09/01, 11:00 PM
     * Grade: 40 points
     ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
@@ -616,7 +616,7 @@ This course covers analysis and design of fundamental data structures and engage
 
     ```markdown
     * Release:  Monday 1400/09/01, 00:00 PM
-    * Deadline: Friday   1400/09/12, 11:55 PM
+    * Deadline: Tuesday   1400/09/16, 11:00 PM
     * Grade: 40 points
     ```
     * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
