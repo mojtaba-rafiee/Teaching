@@ -530,7 +530,7 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 * ## Lecture 29: ##
-    Sunday 1400-09-03
+    Wednesday 1400-09-03
     ```markdown
     Tree data structure - k-tree implementation:
         * Using two lists, along with a description of the advantages and disadvantages,
@@ -585,6 +585,26 @@ This course covers analysis and design of fundamental data structures and engage
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session31.PDF)
    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
    * [Report - Preparing by Matin Askari (PDF)]
+      
+
+<br>
+
+
+* ## Lecture 32: ##
+    Wednesday 1400-09-10
+    ```markdown
+    Review course materials and solve problems:
+        * Aymptotic symboles,
+        * Time complexity analysis, and correctness proof thechniques,
+        * List and Linked list data structures,
+        * Simple queue and circular queue,
+        * Stack data structure.
+    ```
+   * [Class Video (Main class - 17:30 To 18:30)](https://class7.ui.ac.ir/playback/presentation/2.3/1c8c6681c283f9d68bb62e868a3bbbdf364b67b6-1638367158352)
+   * [Class Video (Extra class - 21:00 To 22:00)](https://drive.google.com/file/d/1xc_BcoMiTorVgbkfGE6ol3WU0G2TgsKa/view)
+   * [Problems #1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
+   * [Problems #2 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
+   * [Report - Preparing by ? (PDF)]
       
 
 <br>
