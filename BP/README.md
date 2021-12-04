@@ -514,6 +514,25 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 26: ##
+    Saturday 1400-09-13
+    ```markdown
+    Computer Programming Lab - Session 7:
+        * Java User Input (Scanner class), 
+        * If Statements:
+            * if,
+            * else,
+            * else if,
+            * switch.
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session26.PDF)   
+    * [Report - Preparing by ? (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
