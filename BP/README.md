@@ -519,7 +519,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```markdown
     Computer Programming Lab - Session 7:
         * Java User Input (Scanner class), 
-        * If Statements:
+        * Conditional Statements:
             * if,
             * else,
             * else if,
