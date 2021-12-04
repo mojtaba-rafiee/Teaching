@@ -525,7 +525,7 @@ The main purpose of this course is to learn how to solve computational problems 
             * else if,
             * switch.
     ```
-    * [Class Video]
+    * [Class Video](https://drive.google.com/file/d/1LQfBStHb2p3qtkS2gZOqa-K0MJ7m2_NO/view)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session26.PDF)   
     * [Report - Preparing by ? (PDF)]
 
