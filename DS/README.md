@@ -574,7 +574,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 * ## Lecture 31: ##
-    Saturday 1400-09-07
+    Sunday 1400-09-07
     ```markdown
     Review course materials and solve problems:
         * List and Linked list data structures,
@@ -605,6 +605,23 @@ This course covers analysis and design of fundamental data structures and engage
    * [Problems #1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
    * [Problems #2 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW2.pdf)
    * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
+
+* ## Lecture 33: ##
+    Sunday 1400-09-14
+    ```markdown
+    Representation types of mathematical expressions:
+        * Infix expression: recursive defination (using context free grammer) and examples,
+        * Postfix expression: recursive defination (using context free grammer) and examples,
+        * Prefix expression: recursive defination (using context free grammer) and examples,
+        * Binary expressiom tree: recursive definition and examples.
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/5726451e29336d12b00d8cc2aea924a890d889a2-1638700042674)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session33.PDF)
+   * [Report - Preparing by Amin Ravaghi (PDF)]
       
 
 <br>
