@@ -534,6 +534,23 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 27: ##
+    Tuesday 1400-09-16
+    ```markdown
+    Computer Programming Lab - Session 8:
+       * Loop Statements:
+            * for,
+            * while,
+            * fo-while.
+       * Some statements related to loop: break and continue.
+    ```
+    * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/8e40278a4c2db3637752db30d1d06a0c572a225d-1638858515136)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session27.PDF)   
+    * [Report - Preparing by Abdollahi & Gholami (PDF)]
+
+
+<br>
+
 # Homeworks
 * ## HW1: ##
 
