@@ -541,7 +541,7 @@ The main purpose of this course is to learn how to solve computational problems 
        * Loop Statements:
             * for,
             * while,
-            * fo-while.
+            * do-while.
        * Some statements related to loop: break and continue.
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/8e40278a4c2db3637752db30d1d06a0c572a225d-1638858515136)
