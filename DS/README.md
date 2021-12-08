@@ -627,6 +627,31 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 34: ##
+    Sunday 1400-09-17
+    ```markdown
+    Binary Search Tree (BST):
+        * Definition, graphical representation and examples,
+        * Operations on BST:
+            * Search, ✅
+            * Maximum, ✅
+            * Minimum, ✅
+            * Successor, ✅
+            * Predecessor, ✅
+            * Insert, 
+            * Delete.
+        * Main applications:
+            * Sorting,
+            * Searching.
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/5b84097a573180ff582707f47b241722ceedf3b8-1638971971092)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session34.PDF)
+   * [Report - Preparing by Raziye Nazari (PDF)]
+      
+
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
