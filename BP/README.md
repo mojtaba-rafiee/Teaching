@@ -551,6 +551,26 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+* ## Lecture 28: ##
+    Wednesday 1400-09-17
+    ```markdown
+    Computer Programming Lab - Session 9:
+       * Array data structure - One-Dimensional and Multidimensional Array:
+            * Definition,
+            * Access the elements of an array,
+            * Change an array element,
+            * Array length,
+            * Loop through an array with For-Each.
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/f6fb2ddeb5a38d22f7ef6e222fef8a9f3c492b09-1638935882329)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session28.PDF)   
+    * [Report - Preparing by Fatemeh Saeidi (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
