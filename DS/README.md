@@ -628,7 +628,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 * ## Lecture 34: ##
-    Sunday 1400-09-17
+    Wednesday 1400-09-17
     ```markdown
     Binary Search Tree (BST):
         * Definition, graphical representation and examples,
