@@ -491,7 +491,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/fcaed10b57dac621e346d4e071010e0fbbee190a-1638253693847)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session24.PDF)
     * [Some useful details about statements](https://www.w3schools.com/java/default.asp)         
-    * [Report - Preparing by Ali Barfar (PDF)]
+    * [Report - Prepared by Ali Barfar (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_24.pdf)
 
 
 <br>
