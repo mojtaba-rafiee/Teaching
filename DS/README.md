@@ -652,6 +652,46 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 35: ##
+    Saturday 1400-09-20
+    ```markdown
+    Binary Search Tree (BST):
+        * Operations on BST:
+            * Built binary search trees, ✅
+            * Randomly built binary search trees, ✅
+            * Insert, ✅
+            * Delete. ✅
+        * Main applications:
+            * Sorting,
+            * Searching,
+            * Priority Queue.
+    ```
+   * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/5ee0603ab8149dadb0061b757d6ed1a00f19d82f-1639231060108)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session35.PDF)
+   * [Report - Preparing by Zahra Ahmadi (PDF)]
+      
+
+<br>
+
+
+* ## Lecture 36: ##
+    Sunday 1400-09-21
+    ```markdown
+    Max Heap Tree:
+        * Definition, graphical representation and examples,
+        * Operations on Max Heap:
+            * Built Max Heap trees,
+            * Search, ✅
+            * Maximum. ✅
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/fb9e1b3ee33c388de8abbde13bd519acb50aac9d-1639304913842)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session36.PDF)
+   * [Report - Preparing by Fatemeh Teymouri (PDF)]
+      
+
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
