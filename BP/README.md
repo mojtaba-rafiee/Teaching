@@ -571,6 +571,28 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 29: ##
+    Saturday 1400-09-20
+    ```markdown
+    Computer Programming Lab - Session 10:
+       * ArrayList data structure:
+            * Definition,
+            * Add Items,
+            * Access an Item,
+            * Change an Item,
+            * Remove an Item,
+            * ArrayList Size,
+            * Loop through an ArrayList with For-Each,
+            * Sort an ArrayList.
+    ```
+    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/58b8ae5507dd4abc8a8e61f1f6633f0627661e7d-1639222038223)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session29.PDF)   
+    * [Report - Preparing by Donya Mazroei (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
