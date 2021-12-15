@@ -593,6 +593,57 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 30: ##
+    Tuesday 1400-09-23
+    ```markdown
+    Computer Programming Lab - Session 11:
+       * Sort an ArrayList,
+       * ArrayList data structure - Two-Dimentional:
+            * Definition,
+            * Add Items,
+            * Access an Item,
+            * Change an Item,
+            * Remove an Item,
+            * Loop through an ArrayList with For-Each.
+    ```
+    * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/fe1edb312c68ce24a90bfd0d3ef3522c7c58936c-1639463218223)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session30.PDF)   
+    * [Report - Preparing by Negar Mazaheri (PDF)]
+
+
+<br>
+
+* ## Lecture 31: ##
+    Wednesday 1400-09-24
+    ```markdown
+    Computer Programming Lab - Session 12:
+       * HashMap data structure:
+            * Definition,
+            * Add Items,
+            * Access an Item,
+            * Change an Item,
+            * Remove an Item,
+            * Clear all items,
+            * HashMap Size,
+            * Loop through an HashMap with For-Each for keys,
+            * Loop through an HashMap with For-Each for values.
+       * HashSet data structure:
+            * Definition,
+            * Add Items,
+            * Membership test,
+            * Remove an Item,
+            * Clear all items,
+            * HashSet Size,
+            * Loop through an HashMap with For-Each,
+    ```
+    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/14abcd4f6134c9c05a55be1f5b995adbc5839f0f-1639540671450)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session31.PDF)   
+    * [Report - Preparing by Alireza Fallah (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
