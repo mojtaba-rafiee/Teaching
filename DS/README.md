@@ -680,13 +680,32 @@ This course covers analysis and design of fundamental data structures and engage
     Max Heap Tree:
         * Definition, graphical representation and examples,
         * Operations on Max Heap:
-            * Built Max Heap trees,
+            * Built Max Heap trees,✅
             * Search, ✅
             * Maximum. ✅
     ```
    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/fb9e1b3ee33c388de8abbde13bd519acb50aac9d-1639304913842)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session36.PDF)
    * [Report - Preparing by Fatemeh Teymouri (PDF)]
+      
+
+<br>
+
+
+* ## Lecture 37: ##
+    Wednesday 1400-09-24
+    ```markdown
+    Max Heap Tree:
+        * Definition, graphical representation and examples,
+        * Operations on Max Heap:
+            * Built Max Heap trees, and complexity analysis ✅
+            * Increase, ✅
+            * Insert, ✅
+            * Delete. ✅
+    ```
+   * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8b25c9a9d114e9d22c3f08554c1cbc463edbb1d7-1639576690183)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session37.PDF)
+   * [Report - Preparing by Haniyeh Arfa Al-Rafi'i (PDF)]
       
 
 <br>
