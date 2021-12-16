@@ -509,7 +509,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/8d5e369fc0e20cfb01ba38d3e0c41bf499663aac-1638331141869)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session25.PDF)
     * [Some useful details about formats in 'printf' statement](https://www.baeldung.com/java-printstream-printf)         
-    * [Report - Preparing by ? (PDF)]
+    * [<span style="color:red">Report - Preparing by Amir Hossein Salari (PDF)</span>]
 
 
 <br>
@@ -528,7 +528,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://drive.google.com/file/d/1LQfBStHb2p3qtkS2gZOqa-K0MJ7m2_NO/view)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session26.PDF)   
-    * [Report - Preparing by ? (PDF)]
+    * [<span style="color:red">Report - Preparing by Sogand Hajati (PDF)</span>]
 
 
 <br>
@@ -546,7 +546,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/8e40278a4c2db3637752db30d1d06a0c572a225d-1638858515136)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session27.PDF)   
-    * [Report - Preparing by Abdollahi & Gholami (PDF)]
+    * [<span style="color:red">Report - Preparing by Abdollahi & Gholami (PDF)</span>]
 
 
 <br>
