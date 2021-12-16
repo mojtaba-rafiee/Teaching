@@ -565,7 +565,7 @@ The main purpose of this course is to learn how to solve computational problems 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/f6fb2ddeb5a38d22f7ef6e222fef8a9f3c492b09-1638935882329)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session28.PDF)   
-    * [Report - Preparing by Fatemeh Saeidi (PDF)]
+    * [Report - Prepared by Fatemeh Saeidi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/LectureNotes_28.pdf)
 
 
 <br>
