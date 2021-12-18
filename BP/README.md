@@ -644,6 +644,27 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 32: ##
+    Saturday 1400-09-27
+    ```markdown
+    Computer Programming Lab - Session 13:
+       * String Methods:
+            * split,
+            * replace,
+            * replaceFirst,
+            * toCharArray,
+            * contains,
+            * compareTo,
+            * trim.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/f34e13654e416e31652cfbfb72951d9126e9027c-1639826918391)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session32.PDF)   
+    * [Report - Preparing by Alireza Kazemi (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
