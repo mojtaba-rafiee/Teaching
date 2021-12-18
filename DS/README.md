@@ -712,7 +712,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 * ## Lecture 38: ##
-    Wednesday 1400-09-27
+    Saturday 1400-09-27
     ```markdown
     Max Heap Tree:
         * Implementation,
