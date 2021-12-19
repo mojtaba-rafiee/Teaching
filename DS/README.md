@@ -728,6 +728,24 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 39: ##
+    Sunday 1400-09-28
+    ```markdown
+    Review course materials and solve problems:
+        * Convert BET to Complete Infix Expersion,
+        * Convert BET to Postfix Expersion,
+        * Convert BET to Prefix Expersion,
+        * Convert Postfix Expersion to BET,
+        * Convert Complete Infix Expersion to BET,
+        * Convert Prefix Expersion to BET.
+    ```
+   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/ff93c4f4d1736bcdb72465c0f4e4b7da8f7e60cb-1639909754580)
+   * [Problems #3 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW3.pdf)
+   * [Report - Preparing by Mehrazin Azimi (PDF)]
+      
+
+<br>
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
