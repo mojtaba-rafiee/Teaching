@@ -665,6 +665,34 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 33: ##
+    Tuesday 1400-09-30
+    ```markdown
+    Computer Programming Lab - Session 14:
+       * Exception-Handling:
+            * Syntax:
+                * try,
+                * catch,
+                * finally.
+            * Exception types:
+                * ArithmeticException,
+                * NullPointerException,
+                * NumberFormatException,
+                * ArrayIndexOutOfBoundsException.
+       * File-Handling:
+                * Definition (File class), 
+                * Some useful methods:
+                    * mkdir,
+                    * createFileNew.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/25a3c4b9da83cd5061d3c0e82f7a025b59e7010e-1640068102020)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session33.PDF)   
+    * [Report - Preparing by Mohamadreza Zaheri (PDF)]
+
+
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
