@@ -746,6 +746,21 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+* ## Lecture 40: ##
+    Wednesday 1400-10-01
+    ```markdown
+    Hash-Table data structure:
+        * Definition and graphical representation,
+        * Direct Access method,
+        * Towards practical hash tables.
+    ```
+   * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/2bacc6aa98a68bd8db863ba842cb90f9dcdc024a-1640181542375)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session40.PDF)
+   * [Report - Preparing by Fereshteh Ghaderi (PDF)]
+      
+
+<br>
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
