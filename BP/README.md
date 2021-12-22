@@ -693,6 +693,30 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## Lecture 34: ##
+    Wednesday 1400-10-01
+    ```markdown
+    Computer Programming Lab - Session 15:
+       * File-Handling:
+                * Some useful methods:
+                    * createFileNew,
+                    * list,
+                    * delete,
+                    * getName,
+                    * exists,
+                    * canRead,
+                    * canWrite,
+                    * length,
+                    * getAbsolutePath,
+                    * renameTo.
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/a462ba93af2d2ece19699248efd2262baefa68c6-1640145485820)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session34.PDF)   
+    * [Report - Preparing by Fatemeh Rezaei & Shina Atashfaraz (PDF)]
+
+
+<br>
+
 # Homeworks
 * ## HW1: ##
 
