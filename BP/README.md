@@ -717,6 +717,27 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+* ## Lecture 35: ##
+    Saturday 1400-10-04
+    ```markdown
+    Computer Programming Lab - Session 16:
+       * File-Handling:
+                * Write To Files - FileWriter class:
+                    * write,
+                    * close.
+                * Read From Files - Scanner class:
+                    * hasNextLine,
+                    * nextLine,
+                    * close.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/3692153921628756975db8fc0c0eac6bfa456738-1640431743982)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session35.PDF)   
+    * [Report - Preparing by Alireza Mohseni (PDF)]
+
+
+<br>
+
 # Homeworks
 * ## HW1: ##
 
