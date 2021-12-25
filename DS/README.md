@@ -761,6 +761,25 @@ This course covers analysis and design of fundamental data structures and engage
 
 <br>
 
+
+* ## Lecture 41: ##
+    Saturday 1400-10-04
+    ```markdown
+    Hash-Table data structure:
+        * An example of a good hash function,
+        * An example of a bad hash function,
+        * Load factor notion,
+        * Introduction of some useful notes.
+    ```
+   * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/b7954e82837f4d164ae31af16f397ea7e03e07ec-1640440768568)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session41.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
