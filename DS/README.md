@@ -780,6 +780,23 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 
+* ## Lecture 42: ##
+    Sunday 1400-10-05
+    ```markdown
+    Hash-Table data structure:
+        * Universal hashing and its motivations,
+        * Universal property,
+        * Effect of memory size and its examples.
+    ```
+   * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/240f426fd3f5648239f12e47c7b9533b923812f1-1640514517108)
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session42.PDF)
+   * [Report - Preparing by Fatemeh Karimian (PDF)]
+      
+
+<br>
+
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
