@@ -792,6 +792,19 @@ The main purpose of this course is to learn how to solve computational problems 
 <br>
 
 
+* ## QHW3: ##
+
+    ```markdown
+    * Release:  Tuesday   1400/10/07, 00:00 PM
+    * Deadline: Wednesday 1400/10/15, 11:00 PM
+    * Grade: 35 points
+    ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/QLab3.pdf)
+
+   
+<br>
+
+
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>).
 * <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version).
