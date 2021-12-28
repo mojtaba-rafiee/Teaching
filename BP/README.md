@@ -738,6 +738,23 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+* ## Lecture 36: ##
+    Tuesday 1400-10-07
+    ```markdown
+    Computer Programming Lab - Session 17:
+       * Methods:
+                * Case 1: Without-Input/Without-Output and its examples,
+                * Case 2: With-Input/Without-Output and its examples,
+                * Case 3: With-Input/With-Output and its examples,
+                * Recursive methods and its examples.
+    ```
+    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/69c36f2df3ae0b546719e6c40b3e84538466fba7-1640672874586)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/LectureNotes/Draft_Session36.PDF)   
+    * [Report - Preparing by Ehsan Gheychisaz (PDF)]
+
+
+<br>
+
 # Homeworks
 * ## HW1: ##
 
