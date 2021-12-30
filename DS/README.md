@@ -796,6 +796,26 @@ This course covers analysis and design of fundamental data structures and engage
 <br>
 
 
+* ## Lecture 43: ##
+    Wednesday 1400-10-08
+    ```markdown
+    Hash-Table data structure:
+        * Open addressing and dynamic hashing:
+            * Challenges of insertion and its time complexity,
+            * Challenges of deletion and its time complexity,
+            * The expected number of probes in an unsuccessful search,
+            * Types of probing sequences:
+                * Linear probing,
+                * Quadratic probing,
+                * Double hashing.
+    ```
+   * [Class Video]
+   * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session43.PDF)
+   * [Report - Preparing by ? (PDF)]
+      
+
+<br>
+
 
 <!-- 
 # App and Tools
