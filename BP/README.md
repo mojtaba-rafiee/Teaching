@@ -755,6 +755,46 @@ The main purpose of this course is to learn how to solve computational problems 
 
 <br>
 
+
+# Quizzes
+* ## QHW-Quiz1: ##
+
+    ```markdown
+    * Release:  Saturday   1400/10/11, 00:00 PM
+    * Deadline: Saturday   1400/10/11, 00:00 PM
+    * Grade: 25 points
+    ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/QLab4-Quiz.pdf)
+
+   
+<br>
+
+* ## QHW-Quiz2: ##
+
+    ```markdown
+    * Release:  Tuesday   1400/10/14, 00:00 PM
+    * Deadline: Tuesday   1400/10/14, 00:00 PM
+    * Grade: 30 points
+    ```
+    * [Problems (PDF)]
+
+   
+<br>
+
+
+* ## QHW-Quiz3: ##
+
+    ```markdown
+    * Release:  Tuesday   1400/10/14, 00:00 PM
+    * Deadline: Tuesday   1400/10/14, 00:00 PM
+    * Grade: 30 points
+    ```
+    * [Problems (PDF)]
+
+   
+<br>
+
+
 # Homeworks
 * ## HW1: ##
 
