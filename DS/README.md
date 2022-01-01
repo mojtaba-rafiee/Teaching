@@ -705,7 +705,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/8b25c9a9d114e9d22c3f08554c1cbc463edbb1d7-1639576690183)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session37.PDF)
-   * [Report - Preparing by Haniyeh Arfa Al-Rafi'i (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_37.pdf)
+   * [Report - Prepared by Haniyeh Arfa Al-Rafi'i (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_37.pdf)
       
 
 <br>
@@ -723,7 +723,7 @@ This course covers analysis and design of fundamental data structures and engage
     ```
    * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/2520737f39ed70b783add4db01670bffefa312b8-1639835878648)
    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Draft_Session38.PDF)
-   * [Report - Preparing by Fatemeh Golnari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_38.pdf)
+   * [Report - Prepared by Fatemeh Golnari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_38.pdf)
       
 
 <br>
