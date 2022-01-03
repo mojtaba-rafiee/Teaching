@@ -33,6 +33,7 @@ This course covers analysis and design of fundamental data structures and engage
 * Time   : Thursday 09:00 - 12:00 PM.
 * Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
 * [**Midterm Exam Questions**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidTermExam.pdf)
+* [**Midterm scores**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidScore.htm)
 
 <br>
 
