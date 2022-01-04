@@ -776,7 +776,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * Deadline: Tuesday   1400/10/14, 00:00 PM
     * Grade: 30 points
     ```
-    * [Problems (PDF)]
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/QLab5-Quiz.pdf)
 
    
 <br>
@@ -789,7 +789,7 @@ The main purpose of this course is to learn how to solve computational problems 
     * Deadline: Tuesday   1400/10/14, 00:00 PM
     * Grade: 30 points
     ```
-    * [Problems (PDF)]
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/QLab6-Quiz.pdf)
 
    
 <br>
