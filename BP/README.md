@@ -794,6 +794,18 @@ The main purpose of this course is to learn how to solve computational problems 
    
 <br>
 
+* ## QHWS-Quizzes: ##
+
+    ```markdown
+    * QHWS-Quiz1,
+    * QHWS-Quiz2,
+    * QHWS-Quiz3,
+    ```
+    * [Solutions (Java)](https://github.com/mojtaba-rafiee/Teaching/blob/main/BP/HW/Main.java)
+
+   
+<br>
+
 
 # Homeworks
 * ## HW1: ##
