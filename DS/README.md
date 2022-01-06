@@ -42,6 +42,8 @@ This course covers analysis and design of fundamental data structures and engage
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
 * Provided by Sepideh Davatsaz-Esfahani [**Lectures 13-23 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_13TO23.pdf)
 * Provided by Sepideh Davatsaz-Esfahani [**Lectures 23-25 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_23TO25.pdf)
+* Provided by Sepideh Davatsaz-Esfahani [**Lectures 26-43 [Part1] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part1.pdf)
+* Provided by Elahe Riyahi [**Lectures 26-43 [Part2] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part2.pdf)
 
 <br>
 
