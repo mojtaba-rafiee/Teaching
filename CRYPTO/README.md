@@ -14,9 +14,9 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Class Time and Location
 
-* Main Class Times    : Saturday  05:30 - 06:30 PM, Wednesday 05:30 - 06:30 PM.
-* Practice Class Time : Sunday    02:00 - 03:00 PM.
-* Location : The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
+* Main Class Time and Location     : Saturday  02:30 - 04:30 PM, Tuesday 03:30 - 04:30 PM.
+* Location : The class is virtually held in [**LMS**].
+* Location : The class is held virtually in Class 360-12.
 
 <br>
 
@@ -29,37 +29,40 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Mid-Term Exam - Date/Time and Location
-* Date : 1400-09-11
-* Time   : Thursday 09:00 - 12:00 PM.
-* Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
-* [**Midterm Exam Questions**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidTermExam.pdf)
-* [**Midterm scores**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidScore.pdf)
+* Date : -------
+* Time   : -----
+* Location : -------
+* [**Midterm Exam Questions**]
+* [**Midterm scores**]
 
 <br>
 
 
 # Errata and Corrections
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
+<!--
 * Provided by Sepideh Davatsaz-Esfahani [**Lectures 13-23 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_13TO23.pdf)
 * Provided by Sepideh Davatsaz-Esfahani [**Lectures 23-25 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_23TO25.pdf)
 * Provided by Sepideh Davatsaz-Esfahani [**Lectures 26-43 [Part1] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part1.pdf)
 * Provided by Elahe Riyahi [**Lectures 26-43 [Part2] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part2.pdf)
+-->
 
 <br>
 
 
 # Lectures
 * ## Lecture 1: ##
-    Saturday 1400-06-27
+    Saturday -------
     ```markdown
     Course description
     ```
-    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/40c76c5e3080aa87ac26bb8f9adacaa725387316-1631969899777)
-    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
+    * [Class Video]
+    * [Course Description (PDF)]
 
    
 <br>
 
+<!--
 * ## Lecture 2: ##
     Sunday 1400-06-28
     ```markdown
@@ -75,7 +78,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 <br>
-
+-->
 
 
 <!-- 
@@ -89,12 +92,12 @@ This course covers analysis and design of fundamental data structures and engage
 * ## HW1: ##
 
     ```markdown
-    * Release:  Saturday 1400/08/15, 00:00 PM
-    * Deadline: Monday   1400/09/01, 11:00 PM
-    * Grade: 40 points
+    * Release:  -------------------
+    * Deadline: -------------------
+    * Grade: --- points
     ```
-    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
-    * [Solution (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HWS1.pdf)
+    * [Problems (PDF)]
+    * [Solution (PDF)]
 
    
 <br>
@@ -103,7 +106,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Warm-up Question
-* [WQ1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
+* [WQ1 (PDF)]
 
 
 # References
