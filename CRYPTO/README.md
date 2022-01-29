@@ -2,7 +2,7 @@
 <center> University of Isfahan <br> Department of Applied Mathematics and Computer Science </center>
 <br>
 
-<center><h1>Operating Systems</h1></center>
+<center><h1>Introduction to Cryptography</h1></center>
 
 <br>
 
