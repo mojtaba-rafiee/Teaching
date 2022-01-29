@@ -16,7 +16,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 * Main Class Time and Location     : Saturday  02:30 - 04:30 PM, Tuesday 03:30 - 04:30 PM.
 * Location : The class is virtually held in [**LMS**].
-* Location : The class is held virtually in Class 360-12.
+* Location : The class is held physically in Class 360-12.
 
 <br>
 
