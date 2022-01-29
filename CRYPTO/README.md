@@ -124,7 +124,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Contact
 
-If you have any questions about the course, please send an email to <i>ui.cs.fall2021.ds.rafiee@gmail.com</i>.
+If you have any questions about the course, please send an email to <i>ui.cs.crypto.rafiee@gmail.com</i>.
 
 
 ---
