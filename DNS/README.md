@@ -55,7 +55,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     Course description
     ```
     * [Class Video]
-    * [Course Description (PDF)].
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/CourseDescription/DNS_CourseDescription.pdf).
 
    
    
