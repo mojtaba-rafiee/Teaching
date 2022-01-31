@@ -16,13 +16,13 @@ This course covers analysis and design of fundamental data structures and engage
 
 * Main Class Time and Location     : Saturday  02:30 - 04:30 PM, Tuesday 03:30 - 04:30 PM.
 * Location : The class is virtually held in [**LMS**].
-* Location : The class is held physically in Class 360-12.
+* Location : The class is physically held in Classes 360-12, 360-12.
 
 <br>
 
 
 # Evaluations and feedback
-* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/suWmZ9XsAb4zkmN76).
+* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/DYVN4nnowUaVScvFA).
 
 
 <br>
@@ -40,19 +40,14 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Errata and Corrections
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
-<!--
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 13-23 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_13TO23.pdf)
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 23-25 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_23TO25.pdf)
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 26-43 [Part1] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part1.pdf)
-* Provided by Elahe Riyahi [**Lectures 26-43 [Part2] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part2.pdf)
--->
+* [TODO]
 
 <br>
 
 
 # Lectures
 * ## Lecture 1: ##
-    Saturday -------
+    Saturday 1400-11-16
     ```markdown
     Course description
     ```
@@ -62,31 +57,8 @@ This course covers analysis and design of fundamental data structures and engage
    
 <br>
 
-<!--
-* ## Lecture 2: ##
-    Sunday 1400-06-28
-    ```markdown
-    The types of computational problems:
-        * Unsolvable problems,
-        * Solvable Prblems: ✅
-            * In theory (intractable),
-            * In practice (tractable). ✅
-    ```
-   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/957a754c265f6e82fe6922014de92c6805161f74-1632043771002)
-   * [Report - Prepared by Nooshafarin Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.pdf)
-   * [Report - Prepared by Nooshafarin Ahmadi (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.zip)
 
 
-<br>
--->
-
-
-<!-- 
-# App and Tools
-* <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
-* <a href="https://www.jetbrains.com/idea/download/">IntelliJ IDEA</a> (Please download <b>Community</b> version.)
-* <a href="http://cw.sharif.edu/pluginfile.php/212768/mod_folder/content/0/%D9%86%D8%B5%D8%A8_%D9%88_%D8%B1%D8%A7%D9%87_%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7_%D9%88_%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC_%D9%88_%D8%A7%D9%BE%D9%84%D9%88%D8%AF_%D9%81%D8%A7%DB%8C%D9%84_%D8%B1%D9%88%DB%8C_%DA%A9%D9%88%D8%A6%D8%B1%D8%A7.mp4?forcedownload=1">Installation guide video</a>
--->
 
 # Homeworks
 * ## HW1: ##
@@ -121,7 +93,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Lecture Template
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template (ZIP)</a>
-* <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List (Google Sheet)</a>
+* <a href="https://docs.google.com/spreadsheets/d/1S_14kT064fIP1qauAyA2kSoARDeTMfxHgXdRGLHnabk/edit?usp=sharing">Reporting List (Google Sheet)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1 (PDF)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining-P2.pdf">Latex Training - Part 2 (PDF)</a>
 
