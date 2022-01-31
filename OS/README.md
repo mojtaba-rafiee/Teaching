@@ -53,7 +53,7 @@ This course covers analysis and design of fundamental data structures and engage
     Course description
     ```
     * [Class Video]
-    * [Course Description (PDF)]
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/CourseDescription/OS_CourseDescription.pdf).
 
    
 <br>
