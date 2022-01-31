@@ -107,8 +107,8 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # References
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms [CLRS] (PDF)</a>
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/References/Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%206th%20Edition_Shannon.ir.pdf">Cryptography and Network Security [Stallings] (PDF)</a>
+* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/References/Introduction%20to%20Computer%20Security%20pdf%20DONE.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪Computer Security [Bishop] (PDF)</a>
 
 <!--
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
