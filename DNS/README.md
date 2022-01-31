@@ -22,7 +22,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Evaluations and feedback
-* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/suWmZ9XsAb4zkmN76).
+* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/vVZAU7GERdSvuDm66).
 
 
 <br>
@@ -117,7 +117,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Lecture Template
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template (ZIP)</a>
-* <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List (Google Sheet)</a>
+* <a href="https://docs.google.com/spreadsheets/d/1y96-ELSBqxzGF-2R3hTUyQuiV62CBJyyzFvZW-vY6iA/edit?usp=sharing">Reporting List (Google Sheet)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1 (PDF)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining-P2.pdf">Latex Training - Part 2 (PDF)</a>
 
