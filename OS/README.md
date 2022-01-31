@@ -99,7 +99,7 @@ This course covers the important problems in operating system design and impleme
 
 # Lecture Template
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureTemplate/Report-Overleaf.zip">Latex Template (ZIP)</a>
-* <a href="https://docs.google.com/spreadsheets/d/1TE7tP_-AH0xjDcEogxV0D0jv49FZZ4xVG8i600ChaV8/edit?usp=sharing">Reporting List (Google Sheet)</a>
+* <a href="https://docs.google.com/spreadsheets/d/18u5M7Tykimcs19PwSZQ6QpU8PatN_XjuWBkUQhx1bKI/edit?usp=sharing">Reporting List (Google Sheet)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining.pdf">Latex Training - Part 1 (PDF)</a>
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/Peripheral/LatexTraining-P2.pdf">Latex Training - Part 2 (PDF)</a>
 
