@@ -53,7 +53,7 @@ The aim of this graduate course in cryptography is to teach the students the bas
     Course description
     ```
     * [Class Video]
-    * [Course Description (PDF)]
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/CRYPTO/CourseDescription/CRYPTO_CourseDescription.pdf)
 
    
 <br>
