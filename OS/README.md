@@ -14,66 +14,48 @@ This course covers analysis and design of fundamental data structures and engage
 
 # Class Time and Location
 
-* Main Class Times    : Saturday  05:30 - 06:30 PM, Wednesday 05:30 - 06:30 PM.
-* Practice Class Time : Sunday    02:00 - 03:00 PM.
-* Location : The class is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
+* Main Class Time and Location: Saturday  04:30 - 06:30 PM, Monday 01:30 - 03:30 PM.
+* Practice Class Time : Sunday    03:30 - 05:30 PM.
+* Location : The class is virtually held in [**LMS**].
+* Location : The class is physically held in Classes 360-6, 360-2, 360-3.
 
 <br>
 
 
 # Evaluations and feedback
-* During the semester, you can continuously announce your opinions by [**Google Form**](https://docs.google.com/forms/d/1phMlJV1j3ODYBn3nxsy0tcUCl-z7NGbKmO3Iz4q9esA/edit?usp=sharing).
+* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/q2tRByKUKx4hHhZd9).
 
 
 <br>
 
 
 # Mid-Term Exam - Date/Time and Location
-* Date : 1400-09-11
-* Time   : Thursday 09:00 - 12:00 PM.
-* Location : The mid-term exam is held virtually in [**LMS**](http://lms.ui.ac.ir/group/67807).
-* [**Midterm Exam Questions**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidTermExam.pdf)
-* [**Midterm scores**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/MidScore.pdf)
+* Date : ----------
+* Time   : ----------
+* Location : ----------
+* [**Midterm Exam Questions**]
+* [**Midterm scores**]
 
 <br>
 
 
 # Errata and Corrections
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 13-23 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_13TO23.pdf)
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 23-25 (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_23TO25.pdf)
-* Provided by Sepideh Davatsaz-Esfahani [**Lectures 26-43 [Part1] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part1.pdf)
-* Provided by Elahe Riyahi [**Lectures 26-43 [Part2] (PDF)**](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/Errata_26TO43-Part2.pdf)
+* [TODO]
 
 <br>
 
 
 # Lectures
 * ## Lecture 1: ##
-    Saturday 1400-06-27
+    Saturday 1400-11-16
     ```markdown
     Course description
     ```
-    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/40c76c5e3080aa87ac26bb8f9adacaa725387316-1631969899777)
-    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/CourseDescription/DS.pdf)
+    * [Class Video]
+    * [Course Description (PDF)]
 
    
-<br>
-
-* ## Lecture 2: ##
-    Sunday 1400-06-28
-    ```markdown
-    The types of computational problems:
-        * Unsolvable problems,
-        * Solvable Prblems: ✅
-            * In theory (intractable),
-            * In practice (tractable). ✅
-    ```
-   * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/957a754c265f6e82fe6922014de92c6805161f74-1632043771002)
-   * [Report - Prepared by Nooshafarin Ahmadi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.pdf)
-   * [Report - Prepared by Nooshafarin Ahmadi (Latex Source - ZIP)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/LectureNotes/LectureNotes_2.zip)
-
-
 <br>
 
 
@@ -89,12 +71,12 @@ This course covers analysis and design of fundamental data structures and engage
 * ## HW1: ##
 
     ```markdown
-    * Release:  Saturday 1400/08/15, 00:00 PM
-    * Deadline: Monday   1400/09/01, 11:00 PM
-    * Grade: 40 points
+    * Release:  ----------
+    * Deadline: ----------
+    * Grade: ---------- points
     ```
-    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HW1.pdf)
-    * [Solution (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/HW/HWS1.pdf)
+    * [Problems (PDF)]
+    * [Solution (PDF)]
 
    
 <br>
@@ -103,12 +85,11 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Warm-up Question
-* [WQ1 (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/WarmUp/WarmUp_1.pdf)
-
+* [WQ1 (PDF)]
 
 # References
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Introduction_to_algorithms-3rd%20Edition.pdf">Introduction to Algorithms [CLRS] (PDF)</a>
-* <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DS/References/Y_Daniel_Liang_Intro_to_Java_Programming%2C_Comprehensive_Version.pdf">‫‪Introduction‬‬ ‫‪to‬‬ ‫‪java‬‬ ‫‪programming‬‬ (PDF)</a>
+* <a href="https://drive.google.com/file/d/1hiNjoMxacPdavaRTv7uLFRg1Vn3vj7Dg/view?usp=sharing">Operating System Concepts [Silberschatz et. al.] (PDF)</a>
+
 
 <!--
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
