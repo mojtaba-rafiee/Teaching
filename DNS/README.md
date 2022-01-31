@@ -7,8 +7,9 @@
 <br>
 
 # Course Description
-
-This course covers analysis and design of fundamental data structures and engages students to use data structures as tools to algorithmically design efficient computer programs.
+<div style="text-align: justify">
+The purpose of this course is to acquaint undergraduate students with the basic concepts of data and network security in the field of cyber. More precisely, the students will become familiar with a variety of security threats, security requirements, security services, security protocols, and security mechanisms based on cryptographic tools.
+</div>
 
 <br>
 
