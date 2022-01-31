@@ -2,13 +2,14 @@
 <center> University of Isfahan <br> Department of Applied Mathematics and Computer Science </center>
 <br>
 
-<center><h1>Introduction to Cryptography</h1></center>
+<center><h1>Theory of Cryptography</h1></center>
 
 <br>
 
 # Course Description
-
-This course covers analysis and design of fundamental data structures and engages students to use data structures as tools to algorithmically design efficient computer programs.
+<div style="text-align: justify">
+The aim of this graduate course in cryptography is to teach the students the basic foundations of modern cryptography. This course enables students to develop their skills to define syntax and security of basic cryptographic primitives.  More precisely, the students learn how to transform an informal scenario model of a security task into a formal syntax, an informal security requirement into a formal security definition, and  finally how to construct a provably-secure primitive.
+</div>
 
 <br>
 
