@@ -7,9 +7,9 @@
 <br>
 
 # Course Description
-
+<div style="text-align: justify">
 This course covers the important problems in operating system design and implementation. The operating system provides an established, convenient, and efficient interface between user programs and the bare hardware of the computer on which they run. The operating system is responsible for sharing resources (e.g., disks, networks, and processors), providing common services needed by many different programs (e.g., file service, the ability to start or stop processes, and access to the printer), and protecting individual programs from interfering with one another. 
-
+</div>
 
 <br>
 
