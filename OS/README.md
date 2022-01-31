@@ -22,7 +22,7 @@ This course covers analysis and design of fundamental data structures and engage
 
 
 # Evaluations and feedback
-* During the semester, you can continuously announce your opinions by [**Google Form**](https://forms.gle/suWmZ9XsAb4zkmN76).
+* During the semester, you can continuously announce your opinions by [**Google Form**](https://docs.google.com/forms/d/1phMlJV1j3ODYBn3nxsy0tcUCl-z7NGbKmO3Iz4q9esA/edit?usp=sharing).
 
 
 <br>
