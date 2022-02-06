@@ -63,9 +63,10 @@ This course covers the important problems in operating system design and impleme
 * ## Lecture 2: ##
     Sunday 1400-11-17
     ```markdown
-    * The position of the operating systems course in the computer science ecosystem and among other courses,
-    * Operating systems are an essential part of any computer system,
-    * A course on operating systems is an essential part of any computer science education.
+    Overview (necessity and importance):
+        * The position of the operating systems course in the computer science ecosystem and among other courses,
+        * Operating systems are an essential part of any computer system,
+        * A course on operating systems is an essential part of any computer science education.
     ```
     * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/37e716c969b3cbf89268051fb72bd9fdfc0bde8c-1644148727114)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session2.PDF)
