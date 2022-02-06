@@ -17,7 +17,7 @@ This course covers the important problems in operating system design and impleme
 
 * Main Class Time and Location: Saturday  04:30 - 06:30 PM, Monday 01:30 - 03:30 PM.
 * Practice Class Time : Sunday    03:30 - 05:30 PM.
-* Location : The class is virtually held in [**LMS**].
+* Location : The class is virtually held in [**LMS**](http://lms.ui.ac.ir/group/74660).
 * Location : The class is physically held in Classes 360-6, 360-2, 360-3.
 
 <br>
