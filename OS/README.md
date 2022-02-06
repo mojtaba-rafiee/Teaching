@@ -60,7 +60,6 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 
-# Lectures
 * ## Lecture 2: ##
     Sunday 1400-11-17
     ```markdown
