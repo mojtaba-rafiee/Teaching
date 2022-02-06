@@ -29,7 +29,7 @@ This course covers the important problems in operating system design and impleme
 
 <br>
 
-
+<!-- 
 # Mid-Term Exam - Date/Time and Location
 * Date : ----------
 * Time   : ----------
@@ -38,7 +38,7 @@ This course covers the important problems in operating system design and impleme
 * [**Midterm scores**]
 
 <br>
-
+-->
 
 # Errata and Corrections
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
@@ -54,7 +54,7 @@ This course covers the important problems in operating system design and impleme
     Course description
     ```
     * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/82ca56857a96bce9dfa1dcfd67794c7a1e9598da-1644065734619)
-    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/CourseDescription/OS_CourseDescription.pdf).
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/CourseDescription/OS_CourseDescription.pdf)
 
    
 <br>
@@ -68,6 +68,7 @@ This course covers the important problems in operating system design and impleme
 * <a href="http://cw.sharif.edu/pluginfile.php/212768/mod_folder/content/0/%D9%86%D8%B5%D8%A8_%D9%88_%D8%B1%D8%A7%D9%87_%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7_%D9%88_%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC_%D9%88_%D8%A7%D9%BE%D9%84%D9%88%D8%AF_%D9%81%D8%A7%DB%8C%D9%84_%D8%B1%D9%88%DB%8C_%DA%A9%D9%88%D8%A6%D8%B1%D8%A7.mp4?forcedownload=1">Installation guide video</a>
 -->
 
+<!-- 
 # Homeworks
 * ## HW1: ##
 
@@ -81,16 +82,16 @@ This course covers the important problems in operating system design and impleme
 
    
 <br>
+-->
 
 
-
-
+<!--
 # Warm-up Question
 * [WQ1 (PDF)]
 
 # References
 * <a href="https://drive.google.com/file/d/1hiNjoMxacPdavaRTv7uLFRg1Vn3vj7Dg/view?usp=sharing">Operating System Concepts [Silberschatz et. al.] (PDF)</a>
-
+-->
 
 <!--
 * <a href="https://www.geeksforgeeks.org/java/">geeksforgeeks</a>
