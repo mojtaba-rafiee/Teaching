@@ -53,7 +53,7 @@ This course covers the important problems in operating system design and impleme
     ```markdown
     Course description
     ```
-    * [Class Video]
+    * [Class Video](https://class10.ui.ac.ir/playback/presentation/2.3/82ca56857a96bce9dfa1dcfd67794c7a1e9598da-1644065734619)
     * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/CourseDescription/OS_CourseDescription.pdf).
 
    
