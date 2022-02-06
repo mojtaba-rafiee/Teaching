@@ -63,7 +63,7 @@ This course covers the important problems in operating system design and impleme
 * ## Lecture 2: ##
     Sunday 1400-11-17
     ```markdown
-    Overview (necessity and importance):
+    Overview (Essentials and Importances):
         * The position of the operating systems course in the computer science ecosystem and among other courses,
         * Operating systems are an essential part of any computer system,
         * A course on operating systems is an essential part of any computer science education.
