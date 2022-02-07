@@ -76,6 +76,25 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 
+
+* ## Lecture 3: ##
+    Monday 1400-11-18
+    ```markdown
+    The components of a computer system,
+    Overall structure of the computer hardware,
+    The communication between the main components of computer hardware,
+    Operating systems from two viewpoints: the user and the system.
+    
+    ```
+    * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/0abf6723fc9034b6e3d1318a6cf062ade08d1d5f-1644227863957)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session3.PDF)
+    * [Report - Preparing by Mohammad Hossein-Farrokhi Lashidani (PDF)]
+
+   
+<br>
+
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
