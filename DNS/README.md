@@ -28,7 +28,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 
 <br>
 
-
+<!--
 # Mid-Term Exam - Date/Time and Location
 * Date : ----------
 * Time   : ----------
@@ -37,7 +37,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 * [**Midterm scores**]
 
 <br>
-
+-->
 
 # Errata and Corrections
 * We are continually improving the material and making updates based on feedback from classroom comments and emails.
@@ -54,15 +54,30 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```markdown
     Course description
     ```
-    * [Class Video]
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/42a6af4fc900dde027b192113bbf4c846e340f40-1644314325384)
     * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/CourseDescription/DNS_CourseDescription.pdf)
 
    
    
 <br>
 
+# Lectures
+* ## Lecture 2: ##
+    Wednesday 1400-11-20
+    ```markdown
+    Contemplation on the concept of security:
+        * Physical-Security and its examples,
+        * Cyber-Security and its examples.
+    ```
+    * [Class Video](http://lms.ui.ac.ir/public/ELN/92/392CB6D8BE27F2ADB1695CC396D01ED2/392CB6D8BE27F2ADB1695CC396D01ED2.htm)
+    * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session2.PDF)
+
+   
+   
+<br>
 
 
+<!--
 # Homeworks
 * ## HW1: ##
 
@@ -76,12 +91,13 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 
    
 <br>
+-->
 
 
-
-
+<!--
 # Warm-up Question
 * [WQ1 (PDF)]
+-->
 
 # References
 * <a href="https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/References/Cryptography%20and%20Network%20Security%20Principles%20and%20Practice%206th%20Edition_Shannon.ir.pdf">Cryptography and Network Security [Stallings] (PDF)</a>
