@@ -69,7 +69,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
         * Physical-Security and its examples,
         * Cyber-Security and its examples.
     ```
-    * [Class Video](http://lms.ui.ac.ir/public/ELN/92/392CB6D8BE27F2ADB1695CC396D01ED2/392CB6D8BE27F2ADB1695CC396D01ED2.htm)
+    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/46278ab8aa570260a3f2b452358e43fbe18f5784-1644400645575)
     * [Course Description (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session2.PDF)
 
    
