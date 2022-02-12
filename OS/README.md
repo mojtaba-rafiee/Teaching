@@ -94,6 +94,26 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 
+* ## Lecture 4: ##
+    Saturday 1400-11-23
+    ```markdown
+    Operating systems from a computer system perspective,
+    An Operating system includes three types of programs:
+        * Kernel,
+        * System programs,
+        * Application programs,
+    The modern general-purpose computer system organization:
+        * One or more CPUs,
+        * A number of device controllers,
+        * A shared memory,
+        * A common bus that provides access between components.
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/d27b63ffc35bea80ad4eca27278b17ebcf2d3928-1644670681737)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session4.PDF)
+    * [Report - Preparing by Afshan Hashemi (PDF)]
+
+   
+<br>
 
 <!-- 
 # App and Tools
