@@ -118,6 +118,28 @@ This course covers the important problems in operating system design and impleme
    
 <br>
 
+
+* ## Lecture 5: ##
+    Sunday 1400-11-24
+    ```markdown
+    The modern general-purpose computer system organization:
+        * One or more CPUs,
+        * A number of device controllers,
+        * A shared memory,
+        * A common bus that provides access between components.
+    Three key aspects of the computer systems:
+        * Interrupts which alert the CPU to events that require attention,
+        * Storage structure,
+        * I/O structure.
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/f4e56f650d412f76885bdd2b7ab1657394d44261-1644753436205)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session5.PDF)
+    * [Report - Preparing by Shervin-Mihankhah (PDF)]
+
+   
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
