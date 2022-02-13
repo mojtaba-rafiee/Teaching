@@ -33,9 +33,12 @@ This course covers the important problems in operating system design and impleme
 # Mid-Term Exam - Date/Time and Location
 * Date : 1401-02-15
 * Time   : Thursday 02:00 - 05:00 PM
+
+<!--
 * Location : ----------
 * [**Midterm Exam Questions**]
 * [**Midterm scores**]
+-->
 
 <br>
 
