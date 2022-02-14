@@ -140,6 +140,26 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 
+* ## Lecture 6: ##
+    Monday 1400-11-25
+    ```markdown
+    Interrupts and challenges,
+    Types of interruptions:
+        * Hardware-generated interrupts (Maskable interrrupts) and its examples,
+        * Software-generated interrupts (Non-Maskable interrupts) and its examples,
+    Storage structure - Storage Hierarchy:
+        * Primary memory,
+        * Seondary memory,
+        * Tertiary memory.
+    ```
+    * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/d3239011de6065fb1fdda5e011194900a8dd02f2-1644832722648)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session6.PDF)
+    * [Report - Preparing by Diba Jeihooni (PDF)]
+
+   
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
