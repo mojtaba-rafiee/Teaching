@@ -144,7 +144,7 @@ This course covers the important problems in operating system design and impleme
     Monday 1400-11-25
     ```markdown
     Interrupts and challenges,
-    Types of interruptions:
+    Types of interrupts:
         * Hardware-generated interrupts (Maskable interrrupts) and its examples,
         * Software-generated interrupts (Non-Maskable interrupts) and its examples,
     Storage structure - Storage Hierarchy:
