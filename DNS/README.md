@@ -77,6 +77,23 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+* ## Lecture 3: ##
+    Wednesday 1400-11-27
+    ```markdown
+    Security mechanisms against security threats:
+        * Warning mechanisms,
+        * Preventive mechanisms,
+        * Reactive mechanisms,
+    The importance of security,
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/d4b783f7db3a71535d304b10f3b944a1a9572563-1645005453669)
+    * [Report - Preparing by Marzieh Ayat (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session3.PDF)
+
+   
+   
+<br>
+
+
 <!--
 # Homeworks
 * ## HW1: ##
