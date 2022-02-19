@@ -70,7 +70,8 @@ The purpose of this course is to acquaint undergraduate students with the basic 
         * Cyber-Security and its examples.
     ```
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/46278ab8aa570260a3f2b452358e43fbe18f5784-1644400645575)
-    * [Report - Preparing by Marzieh Ayat (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session2.PDF)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session2.PDF)
+    * [Report - Prepared by Marzieh Ayat (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_2.pdf)
 
    
    
