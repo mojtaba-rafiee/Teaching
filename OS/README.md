@@ -73,7 +73,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/37e716c969b3cbf89268051fb72bd9fdfc0bde8c-1644148727114)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session2.PDF)
-    * [Report - Preparing by Sepehr Moniri (PDF)]
+    * [Report - Prepared by Sepehr Moniri (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_2.pdf)
 
    
 <br>
