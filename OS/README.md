@@ -160,6 +160,31 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 
+* ## Lecture 7: ##
+    Saturday 1400-11-30
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/eb95111a65a07078c983d5c489d508b51a2bcb4a-1645275518829)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session7.PDF)
+    * [Report - Preparing by Amir-Hossein Saghaee (PDF)]
+   
+<br>
+
+
+* ## Lecture 8: ##
+    Sunday 1400-12-01
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/bb343d2db546cec218e3064c022ba084356e63dd-1645358230919)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session8.PDF)
+    * [Report - Preparing by Mohammad Ghavi (PDF)]
+
+   
+<br>
+
+
 <!-- 
 # App and Tools
 * <a href="https://www.yasdl.com/27738/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-java-jdk.html">Java JDK</a> (Please download <b>JDK 8</b>.)
