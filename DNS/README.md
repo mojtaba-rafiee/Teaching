@@ -89,7 +89,8 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     The importance of security and security incidents.
     ```
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/d4b783f7db3a71535d304b10f3b944a1a9572563-1645005453669)
-    * [Report - Preparing by Saba Abdi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session3.PDF)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session3.PDF)
+    * [Report - Preparing by Saba Abdi (PDF)]
 
    
    
@@ -102,7 +103,22 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     TODO
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/4a61cbde4b6ed9687e7c6ad4f84e25e80aab5de2-1645523960728)
-    * [Report - Preparing by Ali Khoramshahi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session4.PDF)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session4.PDF)
+    * [Report - Preparing by Ali Khoramshahi (PDF)]
+
+   
+   
+<br>
+
+
+* ## Lecture 5: ##
+    Wednesday 1400-12-04
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/3fd17d5435a7a9aa1a5a7cd48a95a0a5e4e10fa4-1645610190750)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session5.PDF)
+    * [Report - Preparing by Farnam Farzadkia (PDF)]
 
    
    
