@@ -91,7 +91,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class9.ui.ac.ir/playback/presentation/2.3/0abf6723fc9034b6e3d1318a6cf062ade08d1d5f-1644227863957)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session3.PDF)
-    * [Report - Preparing by Mohammad Hossein-Farrokhi Lashidani (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_3.pdf)
+    * [Report - Prepared by Mohammad Hossein-Farrokhi Lashidani (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_3.pdf)
 
    
 <br>
