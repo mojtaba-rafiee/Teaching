@@ -210,6 +210,18 @@ This course covers the important problems in operating system design and impleme
    
 <br>
 
+* ## Lecture 11: ##
+    Sunday 1400-12-08
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/f5e42a0f01a16cce212cd0dcde14b9b2fa24e670-1645963061615)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session11.PDF)
+    * [Report - Preparing by Matin Moghaddas (PDF)]
+
+   
+<br>
+
 
 <!-- 
 # App and Tools
