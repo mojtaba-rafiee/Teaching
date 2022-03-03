@@ -124,6 +124,19 @@ The purpose of this course is to acquaint undergraduate students with the basic 
    
 <br>
 
+* ## Lecture 6: ##
+    Wednesday 1400-12-11
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/d94da15764ae57293b5537b4a8954c1b0416efd9-1646215090238)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session6.PDF)
+    * [Report - Preparing by Matin Moghaddas (PDF)]
+
+   
+   
+<br>
+
 
 <!--
 # Homeworks
