@@ -113,7 +113,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class12.ui.ac.ir/playback/presentation/2.3/d27b63ffc35bea80ad4eca27278b17ebcf2d3928-1644670681737)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session4.PDF)
-    * [Report - Preparing by Afshan Hashemi (PDF)]
+    * [Report - Prepared by Afshan Hashemi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_4.pdf)
 
    
 <br>
