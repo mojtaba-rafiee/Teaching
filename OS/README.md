@@ -235,6 +235,18 @@ This course covers the important problems in operating system design and impleme
    
 <br>
 
+* ## Lecture 13: ##
+    Monday 1400-12-14
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://drive.google.com/file/d/1BskYay3RB0BWXeUCLot6R1Vv5L74RIeX/view)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session13.PDF)
+    * [Report - Preparing by Mohammad-Parsa Ansari (PDF)]
+
+   
+<br>
+
 
 <!-- 
 # App and Tools
