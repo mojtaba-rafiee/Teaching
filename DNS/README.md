@@ -138,6 +138,21 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+
+* ## Lecture 7: ##
+    Tuesday 1400-12-17
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/4967ddee77c696b58c4835bec9fa3dfcad969ac4-1646733466860)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session7.PDF)
+    * [Report - Preparing by Parsa Rashnavadi (PDF)]
+
+   
+   
+<br>
+
+
 <!--
 # Homeworks
 * ## HW1: ##
