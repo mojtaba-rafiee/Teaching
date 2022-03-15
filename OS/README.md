@@ -277,7 +277,7 @@ This course covers the important problems in operating system design and impleme
 <br>
 
 * ## Lecture 16: ##
-    Monday 1400-12-21
+    Saturday 1400-12-21
     ```markdown
     TODO
     ```
@@ -287,6 +287,21 @@ This course covers the important problems in operating system design and impleme
 
    
 <br>
+
+
+* ## Lecture 17: ##
+    Monday 1400-12-23
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/9d62eecdab10bcd9a48da527c121d62108e8833c-1647252071700)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session17.PDF)
+    * [Report - Preparing by Zahra Ramezani (PDF)]
+
+   
+<br>
+
+
 
 <!-- 
 # App and Tools
