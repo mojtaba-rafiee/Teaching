@@ -168,6 +168,21 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+* ## Lecture 9: ##
+    Tuesday 1400-12-24, Wednesday 1400-12-25
+    ```markdown
+    TODO
+    ```
+    * [Class Video - Part 1](https://class18.ui.ac.ir/playback/presentation/2.3/4c8d038f2937b156aba83267d395276ae3963174-1647338343537)
+    * [Class Video - Part 2](https://class16.ui.ac.ir/playback/presentation/2.3/77fdef4aa1ef485869f4b104b067990128adf336-1647424666966)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session9.PDF)
+    * [Report - Preparing by Hamid-Reza Shajaravi (PDF)]
+
+   
+   
+<br>
+
+
 <!--
 # Homeworks
 * ## HW1: ##
