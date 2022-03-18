@@ -104,7 +104,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/4a61cbde4b6ed9687e7c6ad4f84e25e80aab5de2-1645523960728)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session4.PDF)
-    * [Report - Preparing by Ali Khoramshahi (PDF)]
+    * [Report - Prepared by Ali Khoramshahi (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_4.pdf)
 
    
    
