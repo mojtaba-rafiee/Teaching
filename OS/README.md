@@ -154,7 +154,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class11.ui.ac.ir/playback/presentation/2.3/d3239011de6065fb1fdda5e011194900a8dd02f2-1644832722648)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session6.PDF)
-    * [Report - Preparing by Diba Jeihooni (PDF)]
+    * [Report - Prepared by Diba Jeihooni (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_6.pdf)
 
    
 <br>
