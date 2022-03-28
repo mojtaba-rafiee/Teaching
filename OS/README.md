@@ -205,7 +205,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/6750989214ee1fb36eb68d44bfaa54e65085c96e-1645880358663)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session10.PDF)
-    * [Report - Preparing by Maryam Rezaee (PDF)]
+    * [Report - Prepared by Maryam Rezaee (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_10.pdf)
 
    
 <br>
