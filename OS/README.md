@@ -242,7 +242,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://drive.google.com/file/d/1BskYay3RB0BWXeUCLot6R1Vv5L74RIeX/view)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session13.PDF)
-    * [Report - Preparing by Mohammad-Parsa Ansari (PDF)]
+    * [Report - Prepared by Mohammad-Parsa Ansari (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_13.pdf)
 
    
 <br>
