@@ -183,6 +183,21 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+* ## Lecture 10: ##
+    Tuesday 1401-01-16
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/b5ebc044998a9b54d8d4c2dd5af3cd833d22acd4-1649149177131)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session10.PDF)
+    * [Report - Preparing by Amirhossein Zare (PDF)]
+
+   
+   
+<br>
+
+
+
 <!--
 # Homeworks
 * ## HW1: ##
