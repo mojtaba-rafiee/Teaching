@@ -191,11 +191,21 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/b5ebc044998a9b54d8d4c2dd5af3cd833d22acd4-1649149177131)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session10.PDF)
     * [Report - Preparing by Amirhossein Zare (PDF)]
+ 
+<br>
+
+* ## Lecture 11: ##
+    Wednesday 1401-01-17
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d096ece0ee0e54846930f873c534da887578ac72-1649235582095)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session11.PDF)
+    * [Report - Preparing by Horie Kafami (PDF)]
 
    
    
 <br>
-
 
 
 <!--
