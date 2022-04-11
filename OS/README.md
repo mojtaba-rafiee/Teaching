@@ -343,13 +343,26 @@ This course covers the important problems in operating system design and impleme
 
 
 * ## Lecture 21: ##
-    Saturday 1401-01-21
+    Sunday 1401-01-21
     ```markdown
     TODO
     ```
-    * [Class Video]
+    * [Class Video](https://class13.ui.ac.ir/playback/presentation/2.3/478beb48981359787aec08fb003c90f11ef93771-1649588394589)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session21.PDF)
     * [Report - Preparing by Alireza Torkzadeh (PDF)]
+
+   
+<br>
+
+
+* ## Lecture 22: ##
+    Monday 1401-01-22
+    ```markdown
+    TODO
+    ```
+    * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/78043ed46e8ac156f1db3c27a9b51135439c8f11-1649667557598)
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session22.PDF)
+    * [Report - Preparing by Abbasali Rezaei (PDF)]
 
    
 <br>
