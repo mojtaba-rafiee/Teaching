@@ -389,21 +389,19 @@ This course covers the important problems in operating system design and impleme
 * <a href="http://cw.sharif.edu/pluginfile.php/212768/mod_folder/content/0/%D9%86%D8%B5%D8%A8_%D9%88_%D8%B1%D8%A7%D9%87_%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C_%D8%AC%D8%A7%D9%88%D8%A7_%D9%88_%D8%A7%DB%8C%D9%86%D8%AA%D9%84%DB%8C%D8%AC_%D9%88_%D8%A7%D9%BE%D9%84%D9%88%D8%AF_%D9%81%D8%A7%DB%8C%D9%84_%D8%B1%D9%88%DB%8C_%DA%A9%D9%88%D8%A6%D8%B1%D8%A7.mp4?forcedownload=1">Installation guide video</a>
 -->
 
-<!-- 
 # Homeworks
 * ## HW1: ##
 
     ```markdown
-    * Release:  ----------
-    * Deadline: ----------
-    * Grade: ---------- points
+    * Release:  1401-01-27
+    * Deadline: 1401-02-09
+    * Grade: 50 points
     ```
-    * [Problems (PDF)]
-    * [Solution (PDF)]
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/HW/HW1.pdf)
 
    
 <br>
--->
+
 
 
 <!--
