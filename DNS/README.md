@@ -195,18 +195,34 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 * ## Lecture 11: ##
-    Wednesday 1401-01-17, Tuesday 1401-01-23
+    Wednesday 1401-01-17, Tuesday 1401-01-23, Wednesday 1401-01-24,
     ```markdown
     TODO
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d096ece0ee0e54846930f873c534da887578ac72-1649235582095)
     * [Class Video](https://class14.ui.ac.ir/playback/presentation/2.3/25b43986d2a2bf04b7fa09218b2e3fc41e660ab3-1649753998064)
+    * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/75c0ce16ec1ed4540720aa57777def98314e5109-1649840378861)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session11.PDF)
     * [Report - Preparing by Horie Kafami (PDF)]
 
    
    
 <br>
+
+* ## Lecture 12: ##
+    Tuesday 1401-01-30, Wednesday 1401-01-31
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session12.PDF)
+    * [Report - Preparing by Hamed Taghvaei (PDF)]
+
+   
+   
+<br>
+
 
 
 <!--
