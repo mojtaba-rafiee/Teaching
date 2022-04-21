@@ -161,7 +161,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d79dd409399d5eaec2920b77c9eb70696cf5cfc1-1646819911084)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session8.PDF)
-    * [Report - Preparing by Salajegheh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_8.pdf)
+    * [Report - Prepared by Salajegheh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_8.pdf)
 
    
    
