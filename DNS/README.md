@@ -118,7 +118,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class7.ui.ac.ir/playback/presentation/2.3/3fd17d5435a7a9aa1a5a7cd48a95a0a5e4e10fa4-1645610190750)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session5.PDF)
-    * [Report - Preparing by Farnam Farzadkia (PDF)]
+    * [<span style="color:red">Report - Preparing by Farnam Farzadkia (PDF)</span>]
 
    
    
@@ -131,7 +131,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class17.ui.ac.ir/playback/presentation/2.3/d94da15764ae57293b5537b4a8954c1b0416efd9-1646215090238)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session6.PDF)
-    * [Report - Preparing by Matin Moghaddas (PDF)]
+    * [<span style="color:red">Report - Preparing by Matin Moghaddas (PDF)</span>]
 
    
    
@@ -146,7 +146,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class18.ui.ac.ir/playback/presentation/2.3/4967ddee77c696b58c4835bec9fa3dfcad969ac4-1646733466860)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session7.PDF)
-    * [Report - Preparing by Parsa Rashnavadi (PDF)]
+    * [<span style="color:red">Report - Preparing by Parsa Rashnavadi (PDF)</span>]
 
    
    
@@ -161,7 +161,7 @@ The purpose of this course is to acquaint undergraduate students with the basic 
     ```
     * [Class Video](https://class16.ui.ac.ir/playback/presentation/2.3/d79dd409399d5eaec2920b77c9eb70696cf5cfc1-1646819911084)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session8.PDF)
-    * [Report - Preparing by Salajegheh (PDF)]
+    * [Report - Preparing by Salajegheh (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_8.pdf)
 
    
    
