@@ -271,7 +271,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/8b7700a6296d7e046bee15f7aad5df03857fd410-1646647134262)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session15.PDF)
-    * [Report - Preparing by Fatemeh Zarinjouee (PDF)]
+    * [Report - Prepared by Fatemeh Zarinjouee (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_15.pdf)
 
    
 <br>
@@ -283,7 +283,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/7c98d1126ff6c2b5de8906cf5979bf2fb03b9924-1647089883827)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session16.PDF)
-    * [Report - Preparing by Negar Hosseinalipour (PDF)]
+    * [Report - Prepared by Negar Hosseinalipour (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_16.pdf)
 
    
 <br>
@@ -296,7 +296,7 @@ This course covers the important problems in operating system design and impleme
     ```
     * [Class Video](https://class15.ui.ac.ir/playback/presentation/2.3/9d62eecdab10bcd9a48da527c121d62108e8833c-1647252071700)
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session17.PDF)
-    * [Report - Preparing by Zahra Ramezani (PDF)]
+    * [Report - Prepared by Zahra Ramezani (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/LectureNotes_17.pdf)
 
    
 <br>
