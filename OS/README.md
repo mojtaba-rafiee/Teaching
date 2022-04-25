@@ -396,13 +396,38 @@ This course covers the important problems in operating system design and impleme
 
 
 * ## Lecture 25: ##
-    Monday 1401-01-29
+    Moday 1401-01-29
     ```markdown
     TODO
     ```
     * [Class Video]
     * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session25.PDF)
     * [Report - Preparing by Mehrazin Azimi (PDF)]
+
+   
+<br>
+
+
+* ## Lecture 26: ##
+    Sunday 1401-02-04
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session26.PDF)
+    * [Report - Preparing by Roghaye Bayatbakhshi (PDF)]
+
+   
+<br>
+
+* ## Lecture 27: ##
+    Monday 1401-02-05
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session27.PDF)
+    * [Report - Preparing by Armin Mousavi-Madani (PDF)]
 
    
 <br>
