@@ -224,6 +224,19 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+* ## Lecture 13: ##
+    Tuesday 1401-02-06, Wednesday 1401-02-07
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session13.PDF)
+    * [Report - Preparing by Nadia Damad (PDF)]
+
+   
+   
+<br>
 
 <!--
 # Homeworks
