@@ -238,6 +238,22 @@ The purpose of this course is to acquaint undergraduate students with the basic 
    
 <br>
 
+
+* ## Lecture 14: ##
+    Tuesday 1401-02-20, Wednesday 1401-02-21
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session14.PDF)
+    * [Report - Preparing by Ehsan Mohammadi (PDF)]
+
+   
+   
+<br>
+
+
 <!--
 # Homeworks
 * ## HW1: ##
