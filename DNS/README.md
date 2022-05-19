@@ -279,27 +279,38 @@ The purpose of this course is to acquaint undergraduate students with the basic 
    
 <br>
 
-
-<!--
 # Homeworks
-* ## HW1: ##
+
+* ## QHW1: ##
 
     ```markdown
-    * Release:  ----------
-    * Deadline: ----------
-    * Grade: ---------- points
+    * Release:  Thursday    1401-02-01, 00:00 AM
+    * Deadline: Tuesday     1401-02-20, 11:55 PM
+    * Grade: 100 points
     ```
-    * [Problems (PDF)]
-    * [Solution (PDF)]
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/HW/QLab1.pdf)
 
    
 <br>
--->
+
+* ## HW2: ##
+
+    ```markdown
+    * Release:  Friday    1401-02-30, 00:00 AM
+    * Deadline: Wednesday 1401-03-11, 11:55 PM
+    * Grade: 100 (+5) points
+    ```
+    * [Problems (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/HW/HW1.pdf)
+
+   
+<br>
+
 
 
 <!--
 # Warm-up Question
 * [WQ1 (PDF)]
+* [Solution (PDF)]
 -->
 
 # References
