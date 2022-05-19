@@ -254,6 +254,32 @@ The purpose of this course is to acquaint undergraduate students with the basic 
 <br>
 
 
+* ## Lecture 15: ##
+    Tuesday 1401-02-27
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/Draft_Session15.PDF)
+    * [Report - Preparing by Hamidreza Zare (PDF)]
+
+   
+   
+<br>
+
+* ## Lecture 16: ##
+    Wednesday 1401-02-28
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Report - Preparing by Mojtaba Rafiee (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_16.pdf)
+
+   
+   
+<br>
+
+
 <!--
 # Homeworks
 * ## HW1: ##
