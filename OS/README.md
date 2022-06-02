@@ -557,6 +557,30 @@ This course covers the important problems in operating system design and impleme
    
 <br>
 
+* ## Lecture 38: ##
+    Sunday 1401-03-08
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session38.PDF)
+    * [Report - Preparing by --- (PDF)]
+
+   
+<br>
+
+* ## Lecture 39: ##
+    Monday 1401-03-09
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Draft Report (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/OS/LectureNotes/Draft_Session39.PDF)
+    * [Report - Preparing by --- (PDF)]
+
+   
+<br>
+
 
 <!-- 
 # App and Tools
