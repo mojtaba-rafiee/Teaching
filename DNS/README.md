@@ -293,6 +293,30 @@ The purpose of this course is to acquaint undergraduate students with the basic 
    
 <br>
 
+* ## Lecture 18: ##
+     Tuesday 1401-03-10
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Report - Preparing by Mojtaba Rafiee (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_18.pdf)
+
+   
+   
+<br>
+
+* ## Lecture 19: ##
+     Wednesday 1401-03-11
+    ```markdown
+    TODO
+    ```
+    * [Class Video]
+    * [Report - Preparing by Mojtaba Rafiee (PDF)](https://github.com/mojtaba-rafiee/Teaching/blob/main/DNS/LectureNotes/LectureNotes_19.pdf)
+
+   
+   
+<br>
+
 # Homeworks
 
 * ## QHW1: ##
